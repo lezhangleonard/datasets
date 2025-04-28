@@ -1,0 +1,1694 @@
+{
+    "sequences": {
+        "20230919_s0_andrew_taylor_act4_47ni1e": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_preview_rgb.mp4",
+                "sha1sum": "8d6bf67125ab40ddceaea610342a8c9297260e7e",
+                "file_size_bytes": 1439732401,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-MTlZQD-vXn7ZrzM9wgQ5aIaD5VrANiWaj35BTFsX4Ch1rpsOYX5zwT7b0gQcJGPbk1Rk4leQsexslQJYEgIMW5aJ0OqZWUkTCpblrTwtDPfWvMXGqCayFY0TqugJWfeLHb8OuMNQa2Rrl4Pdi7Y75b7MsvjGrneE0wl6FLbLjKpYIF2X9-gkoeMkwa6SRuHijUr78iV8.mp4/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfFn8bdegMU7kZs_RV4RiQazS8DeoYuO9r2kmSHw5O3bMQ&oe=68353885&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_body_motion.zip",
+                "sha1sum": "acb33656910488f26a432012a3f8e6b8a1c386e4",
+                "file_size_bytes": 976327425,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-4iEd1t6RqplcUcSREGHqgXGi5X6yHP_Nx5ew1fe7sOhIAlbFn6_9KDwdPHEp2L0Fg3_ztOx2MeWeGdn_M6Y7P1n5AvUKJ5MZtzv2Z2QG7nBj05lTbvc1buPIk24MoeOCGEswHqDpz2xe3FyeA3hzItP8l17xFgKzqMZOoaP1SZW7QnR9owMH57yP3fi1cqt6ETjHG.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfHcOjE3IZEj86Y7hbIafQErIDQAjT4z7fgEV1zLE-j32A&oe=6835632F&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_recording_head.zip",
+                "sha1sum": "c8c34a6e26d4dcdaa72c3911d96fb04786bfa7c9",
+                "file_size_bytes": 1560295121,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-SbkyAFhNCCvw-n-SCzaAzwTnJcrMKhs-5OQBsMtI-l7kQfhtPHI6BQmcbrIRDV21aU49nfZjqUcH60oLwcuT-GG3phJRBgVNOqOabAZozHqdy9cntZyhYs98ythZjhI4Ye4kyVyfeIkPVHWxkThtQ7AU1L_VLK4OIeguZ6ffPpEeO1ioNeK5d4HK8tHKqRCgM3bJRpg.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfGb_bgHQujCntJXlhutEE66zgAdsgJCDVDg8En2JOGfWw&oe=683546A0&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_recording_lwrist.zip",
+                "sha1sum": "d1a87619c59fb0f3648c32dd63cce0591ba38a25",
+                "file_size_bytes": 1309318900,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9VurP0gIuTuyaK1H4uaNSmNS1F3_NIEqeNCgtGX01VaFnZ-K-tShDbTPL2VWBgytcU24Ni6HWK9F8foCX_L2YNVpf1h_j_TKiOjtaxAk57Jxdq6uIMh_24KLpRahbQzDyZjVx2W3c-SWbdv4DJ7HEgQFG67wg0HlfnD7oyfwVkRthmVn1-E7zyhIeiQyDQG0X15P6I9VQ.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfG4iMHHbqypvW-B0lucggkNVnptmiT2THaIPA4FfHySyQ&oe=68355179&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_recording_rwrist.zip",
+                "sha1sum": "42ac9cc8a9eef9c2573ba49c1f1af8e53cca72d4",
+                "file_size_bytes": 1455190307,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8PDrJVCeDtdX4SLI68f92fY66cAgY7LTnHPg0Vwjz96cR4SBtGKJvnxPd7Tx2keV8dGNimtkVqxIpodCo6lmlE3F5sU8i47iZNWsSySTEl_ysQQ38DhgTRP8KDH1EL7SkWxBtATXX1-zeKjntkCXgawuxeTkOFvt10C53XVplBAZn8wRZPKhioO7j6i5oOFmetqxSo4Z8.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHg9KagSJQt7M9Yr7TUzZEnC3SPbazU1kwBtd0aYYhVhA&oe=68353D20&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_recording_observer.zip",
+                "sha1sum": "7e7ec55694c021b2402730ee0ce9ac69cbf84a4f",
+                "file_size_bytes": 1427779897,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-LXVIUu4SRAJi1Vj9i2mu2FhGn3S-ud0FP80uZA4bU6LId6mIQyhFYpJA2SAqBDuGFtM-IT7WWvfrONGbtg1vc_S5BGTX2P2PRQsCwY3rj-8c5ddB9F1RrC_xVbDLncLSXcjy_Ji7_p2GeYPtFRsp-kmBHm3UcOq-EVeawiYdF3ZG9nhZe9QGcS0iq_i5FWAFi4YEIKxx0DA.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfEbmVhVfg_bkwlFdoaOOG5x9HYt_uq2ajkg0X4BB7iV9w&oe=68352F8A&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230919_s0_andrew_taylor_act4_47ni1e_LICENSE/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_LICENSE?_nc_gid&ccb=10-5&oh=00_AfH-8X8HemBB8B0zIcwhy2TWVaw8OqVn0TyvLk4LrutUPw&oe=6835353E&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_metadata.json",
+                "sha1sum": "7d58653df97436ae7d55029d5bdec8f07a2785a4",
+                "file_size_bytes": 1362,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-WyzSF3Sfrlg4PmU-AplBlurisxxrx-Gu_c5pbvNZlCQBTzufLWuLgh-aq1_SnAy45O0Ga4Pm30eFtENbaKNQZqD2IK0TLp6uC4KBrbe359oRkhlOd2MvQONX0RtVBOgYnRiU70ClTNUurxItf_5YMdlzGGf2MGdu8ioOnX1b4VNsr5U65EAgTdIL4IyrgIA4.json/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_metadata.json?_nc_gid&ccb=10-5&oh=00_AfHUzkFUaWy8HJIqEhke-8qAtn7LP5Yzd9_dL3rx99Pe8w&oe=68355498&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_narration_atomic_action.csv",
+                "sha1sum": "d3b4e6379318e015d1a847ddbb20d237a5587e79",
+                "file_size_bytes": 38399,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8_KftUlDdTCO0ozwsTfDXDJ9ZCh-PRqWE9lyoVmgWGzcqeflvHYxGjukoVYvpu2mq-5VO1HKSLNAQLJ-cmFnggCC0G_0BffVjE1Q00_VoxvAQDPXro9gJKZTMdeSrAZ0iH_syzuFX6HiymsyKBh9rJZkBjinFXxdpG6mALkC22flS4R5UGkshYfSBghvY1pkxdkG-ozRV0c3UC.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfEAXiAnn0Cl7QswLNh1PwYCXkcng91itJxstq6eMnA0mA&oe=683557E7&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_narration_activity_summarization.csv",
+                "sha1sum": "c7b5bb2272cc218f96a3b67509a52a72ed909fbe",
+                "file_size_bytes": 3023,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An90JTLJ87kfPpst25rdIKA_Zrx5570nmpVmLPSQQfwnm2ETKDQ6Sjs-r50OTDixNahkncdt9ZJqSnHSu7ybij4rAORPdyxFjGC3WY4S3OzdlTR9TfkdKCg09SlCbOcJvaZzJsIXj2mmoUmf3UApw1MdyymDWqpoesTTB0ISrE5c5A8wkNcFNDikekT0fxm3Uz2FlwONF_F3D27K39k2zkVR.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfHTlsioWi3aW1IjP3p0ymm3_kSsd7QpYu-bKFA1eE9fEg&oe=683563C5&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_body_xdata.mvnx",
+                "sha1sum": "10b1f5d5b74afbae1aaac1307c004b1ad2e7ee98",
+                "file_size_bytes": 1803989768,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9EQUNF3KyOU84WbM0JJ6yg2Wfeus9YV-nLRwkYoawY8loHobPA8J4aVhZfP6GGXaSHmLz9ONK3Fm-eMt61dxXvq2slr0uX41GNjejEkLqZ6cy1J1SinmPou0YGrvBEgEYBW485ZYS7PED50yEjWuq3GAzZ550mbjgOMNTcejquaG6Pyqow1qZGnTySgXvr51pKj-zCJw.mvnx/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfHLyVjx7VlbqlXtwUHoF7851glxnLLn86_a4kSbosqyRw&oe=68353C7E&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_narration_motion_narration.csv",
+                "sha1sum": "6ec4b57a491132cc777b4d0033d90964ddb505ae",
+                "file_size_bytes": 122768,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9BmmHTENZNTAHnieN8zjCOI5CIF35nClhZp_ZITcb7ocrcE_e2VfX3tneJmnhMk9HqByw5RgTQFuF18Vj_kY4td5byR9gDjalf8jbNQcJq0T5nKnlTVTueQBvopLK-L6rCCu_iFF2Hq9l_2UsqTVeaOO6I7a6fdtok07J17TNX5YZS0BWUKfwe3AFuGGskmV5dE331qcuDyL2PvA.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act4_47ni1e_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfHxw5ASOb94EaT6PVkVNVCzoCIQH_-i0nPXsW1vp_cl1A&oe=68353964&_nc_sid=111504"
+            }
+        },
+        "20230919_s0_andrew_taylor_act3_6n13wu": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_preview_rgb.mp4",
+                "sha1sum": "936e51692ecbfcb1b71cd05414630ef9bf2380f6",
+                "file_size_bytes": 935191175,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_IIPLeJj8KufstCQscmFLOYJTNYKMX20Wz93H1_rbg_COJ899qyJDFmzLxJRc4LMRMbXDElwCHK0qufu8xNOUu89RulLLDF9A98hJBHkFWPHoUIBY9YmqJBiH9CdcQGyHIhpJEuCuLN0eO4qF347eZlcDPX2KMmiFQ70DPB2o4vgbD1RzpAsVd1mx-mTjS1xwp2-vWAAM.mp4/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfESOUDPyFqMR39W0xWJVG8z2z_EN41VRJ8xPsgnvVGNmA&oe=68355676&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_body_motion.zip",
+                "sha1sum": "eaf94b69cc7fb2ea79a6ff1541540290e8390922",
+                "file_size_bytes": 1065826685,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-wX8Rn6LnsGK7A-W2HhLNsSoAwBoevcOPtBtBj9tIo99STiYJ-nZviDkWqEIs31Y_d6t-fneZ2dQxepfZy3e1iZAISb1yhTHj1mml0wIEIEpUD2BbRHbvEZmpeHJlc1dFUFnF7kMABlOah-3qRQhyScA-mhZlu5M3khONQBDnAanRnwDYABb_qTXg7EzvCaYkogsBj.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfGr1A6FXmxu2JGnStDlmtxUzansxyhARd8ouFSJsXfInw&oe=683558EC&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_recording_head.zip",
+                "sha1sum": "9263e13853ad79afd5188aeaf47f1438b61a2892",
+                "file_size_bytes": 1031102667,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-qo6YX3nZcFM0wqGpSwKBwWFXObiWLKuw02IG4axkGzaeL-W2UMJ545l-d65AkOCr3QqEiPR7rhsXZekBcBLO_Qd4fvEkiar44DsPH9ST7MsqMeeJRnTHZEUUarB8zcG2H0SY5kg9ONVSZIjSimoXv_fHgJqOI3bSlpguHOoIpA2xQKEbhk_P2jDyWZWkwMjKVd0QrtA.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfEbruaX8jeR3IHEbQ5CPvVOTpOU2DGGzELweZLXLo9f6w&oe=68352F8F&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_recording_lwrist.zip",
+                "sha1sum": "288a35b3c09b825cc761808fd5b9888b7752ba3c",
+                "file_size_bytes": 818492015,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9f5E4VNQPf77wxZv_VG_U7BW6FLLI9NqTBM1fX6gUCMpnqfWlbSivdGpMOVBmWyvRAvWJDQgoX_uJFd5sXODzdZdVey8lQBTqphex1qzfyUOHvSFBobPY-4wy2WUWH6-3T2AbjWddt5A3OEWjaYaEQQAVFLK8Zcmn_dl3LrcDrivC8jgjrYMTZAOe3NjwtasEw2bVwyzE.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFdi-dJV6MOOQ__Qixac0uyL8Zq4azHYHzOtcL7h5LFYw&oe=68352E1F&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_recording_rwrist.zip",
+                "sha1sum": "c36e057811cbdc3108b2b8010237b0318bc9d791",
+                "file_size_bytes": 752701516,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9qhzpPbplakuzFKlPGpezgBhXdwgRMJAIaOtTgAIJ_ToV7x5yMfsXdGdozvMVMuI9w-LzmK4af3pDHVpzlKehoTME1FhwxKYhvp_MoeR4MY0AE3MJcMi1OreMQ7D9t3M4kAQCd8HXNgI9Gp1EONMR5T8nCbEVkuXeOwyQIhsQv2U_JErq9kFQJQW7MwkVpYZwk_zLda08.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfG7lqvAhq8sbRZj25-GUE9VDlgMHHlzqpqw776BJhq0hQ&oe=68355581&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_recording_observer.zip",
+                "sha1sum": "924c53163f33aeaa6df278ebf16db82ff33856cd",
+                "file_size_bytes": 962698498,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9QXRxYYHLmrm0LdnxHocGk-i_EFLExtNf_M1pXFd1OQHin1bGynDQ1aN7_u8fDQXnYpVmUy_JrWnIaSlwCY_eYEweSKXEE8ndjI5BuUgeWqfx_Yw2TBPgLVuNAsdxbgGuStia8aNh-YrLtud8_WiGHv-rF0Uiudpj6h3kMnbvvsaP6s6eMvnVN_9xHX9jEUgEqe0dd2JLNRA.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfH7og1GOch8DukNS4LmLzG9bJWbGR8Uoo68B2-K_tVhFQ&oe=68354B18&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230919_s0_andrew_taylor_act3_6n13wu_LICENSE/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_LICENSE?_nc_gid&ccb=10-5&oh=00_AfGvjTiU-nNFbBENrndk3293Z7ke83XeEwxctfPUH6n7hw&oe=68353221&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_metadata.json",
+                "sha1sum": "a1182b1d0529cc798b2226b8937f6cb193bb35e5",
+                "file_size_bytes": 1372,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An88XTowJbGaxyMDaVTDSaRjB2zik1nDDz4ob3nsE9bPbGz-YU91IP7-4gXwvO4lxpjBll_KOa4lEqVZHgacXyR1_iE4OwMNEBEZkJssSimcc1OaOQdUKTg02pdosPs-6JzZzRZvtOMzwQdyBDjvDmGhJDeZ46rZxpfCzxChkeRJnilzMPRoqt0grBpV12Cud8QL.json/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_metadata.json?_nc_gid&ccb=10-5&oh=00_AfEtFHpHmYBcytDzQMoJB8RgZXURJW6aqFB2uj_0OBANcQ&oe=6835446A&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_narration_atomic_action.csv",
+                "sha1sum": "194633b751e970e1857cb18f049fda8039c91f5d",
+                "file_size_bytes": 68770,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8UA39kN82VPTrhv4N9hBRXaSh12AElsr2QtYQdaUF1C7ASRWqafkO1PyRKX6Rf85TPgc18cIU2kAgPKP-ha9zjuBGQlPco4IAWx8AAcWn0rv2Vc8N_Xum7ajDdCYh01-lO3lKv_9-9O6_iNIdm3Ba9UajCwGJq-FNeUp6LIi2rWXWu7TpvYikE39vhOLi__m3cpCcvYVHl6ZLc.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfHGGEvtLPTjr5XB5SAhMMr3klAaAH7B60DMvcoT-k8vaQ&oe=68354D07&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_narration_activity_summarization.csv",
+                "sha1sum": "cf724662647e3c725eafd47fc773c115d6ac2afc",
+                "file_size_bytes": 4166,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8dfmOLVrg3nUpgOFs7idavcZuRPTL3sC5w7RbmScO4A3DGj6wh9vjGVnHEcI0kp8UhVvTbjQEMWyU_qPnNL0fb9AaQgnKe-gh-To0lhHm95mTTUeNli2Edil6Z0s8VZ3TuioVFPgaeagHHkVYkxpD8pUh0tk3fqMh5JO0IdW54hMOykaDuc1N5ssLxSMR2lBbLx7U52uDIbTDkPyIDjJAR.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfH9JBcb7Oo-fG62tAVr1R8K54c1NWoQUgzeUOyKzePwmQ&oe=6835507B&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_body_xdata.mvnx",
+                "sha1sum": "58bd1b5bebe8449e4eb842cc4773c075e9da5ab5",
+                "file_size_bytes": 1990430556,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-Dj8fQLBx8qx_UdNYDRa2Gj1W6QE9BpdO7o2-5P4lRGxv2FNXvLNqYtzANRVdb6BGyVmv3dSMBtAIhynf9IxrS-3wvOwKdqoLxyTq58BsP5yszIGtXMqmhkUBnQpoFCv7ctXowlLootgKVtAB9_Jwx7KtixCP1F3GFECUOjroUbxYFYlIJWQC4ybgesylA4eB1NClbCQ.mvnx/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfEx7pHGyKQoUXGXyXtV-lNFhgbUe7RYpXIoPjpOHBZF0A&oe=68353CAB&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_narration_motion_narration.csv",
+                "sha1sum": "cd3358b72e0e3fcb32d3b7b7203c5dc64d9c33f1",
+                "file_size_bytes": 44146,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-xyY7N5wqOsWzH_fmkUfu1GzoxvBmxUNzG0UOgTy3rGR0WQXqloOzAyqRNPuf5KQombjV7eg-4uD20W5COJXnsRRoN7la8pchOGRWcLvtqH3bNrUo__6ajxhhlaB0vk745voJqhGeJ80ArREL5KVERf_IiKMLvP3hTuCQNYqRsTZsbQJ1jmd9RxLnfzcKqGyNJmeRU53tsPi6bzA.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act3_6n13wu_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfGq77CXZT1Pvxu2FviMDdOML-oJOEkr1hfPYx11uzBaag&oe=68353790&_nc_sid=111504"
+            }
+        },
+        "20230919_s0_andrew_taylor_act2_8ndt6i": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_preview_rgb.mp4",
+                "sha1sum": "a8fd3825520fe4e5ac7e948baaa87f51baf63ef5",
+                "file_size_bytes": 603445089,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-fPjQGTekspoV26oB-cYWszYtxSXxfnvWNMzRgJzWnqcVZPqVm5jtS8jg08-RXovMO7Yo_3lOqWOygW7e_Ndf1J5QdPY6psoOTkV6AJq9vRwudrsvg8QnK7upst91JXEfip4PrDTppea_oVoFsYZHjVZ_4665u9NvYJh14BCLusQ0GcMIdlzEBQpRyxGg9JxCj-FYhzRk.mp4/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfG7YRaSAqTH4zMcpI0OI_uPZh9DOhkhZdaZDp-KnkKx1A&oe=68354D54&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_body_motion.zip",
+                "sha1sum": "4e6cff8ec7d8e6d06fcfd65d640b2243d12821eb",
+                "file_size_bytes": 997534679,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9myZDCZav041raZs_yvmQ403jTx9DRVkAuwoXV8EJ-vJUL6z7qjnqX7f6JVw4bkB-456k6vPP4X_M0ce69yTMcOvVkFM6xHwB9wymQH25_aKJYzaXHQGO5l64oI7iYY5IUNndne-TYgwgWm0PfVDAu58BPZvWlri34k0ibc5nH36VRMX3K2PzEnLlrYiVLS-yIYAeg.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfH0g4JGLEq6pxBdFE8XJtjLFwEf_We3SNXAXx9OsGDkrg&oe=6835478C&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_recording_head.zip",
+                "sha1sum": "fd0a4b8fa5ac6385787e743614314c6e3619a3f9",
+                "file_size_bytes": 544827219,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-ARR8iJJS2KgITq9G5Fggi_SVDCGfQWBkQw2BZaaiVciKqJlct-5h0uHAV7NyVI-gaEWLfLDGJd10j1qlBkAuuAu8ajQOovtBwVhOJ9Vta_M1ASNIvIJmQziT-IDw6_RrY4JxjJXMTXNJz7dRY2n8ftFKZKgzO9W5Bq58h8Fuu8nbN0805_kc54jnlxkqhb1PJbxfKkw.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfFNQksnO4oulj-Hbo44zeHBe5aQG7w8qsITVQBHtAkNxw&oe=68355779&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_recording_lwrist.zip",
+                "sha1sum": "7c1a576bba402bda2d578ce9a71dec4a689b4528",
+                "file_size_bytes": 237597906,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-iypxJ4RLU7CYQQ4CnXFrjbIUdm9GOPz0LFeDiIJGfwykk4FE1XYkTOEiokAZdgFrszoH57dFHOG6zG52lKQw1LYQlsvZhPLdUnOS_QRGbnqgTkFVoYac7DhtPmq8NZPuRKXivzStleFJcgQZNxQNQ6EAF5abb3cS-OJt_ETrm2BKY-DcYRu62doc1N4VYNFOyMup0HzM.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEsoGMRgEKpyT9CchYhniMIni2SULFVXsGuVOfyx3PjKg&oe=68353E45&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_recording_rwrist.zip",
+                "sha1sum": "a0d300d1c283330c5d0e7cd129cf11d4a3b5d3ae",
+                "file_size_bytes": 299941176,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An87rCjYNA67L-VZj3w6ZruoOBSZTAbUxW6pSQn70UI3bI_Rbw11lUuvuLJlG0qYZb7iYQaXlVksB4T3F2hml_rplG90l0DfZGzAOBF7Pbe84SQ5e1aetO2XULK1oewqirDPDB9Za-nWSgQdTZrqmxjF-Ti_T2AqHSbLvDNYUCkB3J4eDdMv0rg-FvyNgNTSG6nb27OGiWE.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEecPuM5Vvd0ZODuXIBmZ0N3PqiJf_nZxUDgNTkKbzRuw&oe=68355289&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_recording_observer.zip",
+                "sha1sum": "cbcadaad38d56045fa996c089c7dde58e2fa2807",
+                "file_size_bytes": 421020381,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_FrGV5ZJxOC3oADKE4I7k49KX9VEByc5tuJSP2bL3x8uSXZpIO6enVyCuVuHW8XU1UMjOC2fj5bRGFhRsjQJKEev8x69gb8qCCat7chCSfWOZIZi-58wcNiPZ5Z4VCKD4mwlZ0Yicnjb5R8vKa-goWuyMVe6ve9o_azGalvW2TRzgZg4muOGkgMvGROgmBWxIOyB35qi3tCA.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfG0fjXFRofX4gWYJeB_kH3Apqn0h6HkkUZwbczHhAzT8g&oe=68355F8C&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230919_s0_andrew_taylor_act2_8ndt6i_LICENSE/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_LICENSE?_nc_gid&ccb=10-5&oh=00_AfH5c4GonWKgM99CcM90VnV2tqFDtvCupYVO53EMu8BgeQ&oe=68354DBC&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_metadata.json",
+                "sha1sum": "a0956f10725e31c2f9cddc333fbbb85868cebd34",
+                "file_size_bytes": 1373,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_O4hsIdloW2ZsAYRD3r0YUcbHp62HwANcuvZN3LaojzXNcbhIpU445q2EcnAXE0ln9NulFR0lqqL2SCTF7OhF15npAXA_LY-YfUW1UGH4PGrrsnzcI9-puKb87H1ChUwGkL3j5yqWT3y9k2QzS-xVxyDFtLPStaenpgDVlsy6PWlwzVjfjZeXrcI3kon458xmR.json/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_metadata.json?_nc_gid&ccb=10-5&oh=00_AfGpo0Juxhr4iCTpKgAXYMUDRibn3OLiGU81jcK2H6Hndg&oe=68352F7E&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_narration_atomic_action.csv",
+                "sha1sum": "b8eb231e575927a38f4308c532f200a1ec402869",
+                "file_size_bytes": 58564,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8uSciSVU8P95m1vnBsB0tSRx21XQara2WEk5TI-Wwr-DMfrCmAY-3aXlHKXk7BQfSd0qNqaga_vRahrgkNkL5KYQPerjDX4k6PYmvb-tnpKZe1YTaloWnyvHDX7n1gIEow3Q0VlZZfGBsJIHm4V-18v2iKRAt24dMG8DBl1d9zq0-AOSKbjKLqbJ7pLorqX61shXyhJIbGFS5t.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfEdC6zAmGr2b5UIUjqDf63fUqEwSkxsYBDV7BB9hxa-1w&oe=68352F40&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_narration_activity_summarization.csv",
+                "sha1sum": "d0011a1f239dd6a8765f71f85d7203680a85859c",
+                "file_size_bytes": 4209,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-U_yPJKSaZxoVoWJmrXWTzhf96s6QepGEJGT49RPz0Dy5ZVROznLtQi69yuVaQ--08k6W0IBVdEOxUr0NpmXw_jsRUZHEFU6P-XX5EAJs_yXSQL-aksHDJm_Suvl_8Cwl7aGFr710BZJcXUCdqS6ua7wfzN59jwASpHTsn7IXJBq7STDHtmw-mrfO8S0gpJVeTHIbWgsmNuGwdKHWG8lkW.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfG1XuT_XcOUHt8mrKBBm4teXcjHVwnY3dRJN2Unn72I2A&oe=6835542F&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_body_xdata.mvnx",
+                "sha1sum": "1328128553ff95fa25cde8e864d62672e3bc969e",
+                "file_size_bytes": 1989481811,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_XF6FHdvHcavHAs6vYoygmvolYhWNUlSHDQ9XYZkUOCsq5nH8phgtfrEgqywSmmiIYb4JWPvpelziIz1GG4-VzeqUR8VI-qPh42N0_uaGAlSkped9p105AqGbOkYU08vQ7WTa-robWvfHKjL9OUBPnnXR3_Mk7BE2pdDwGT5rW8ncW_Lw6EqL1a-SiHztZWfbthyk7ug.mvnx/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfGZ-24evx9BukbwLkWj2J7QFhmddW-lkzKAffGOtqDJ3A&oe=683542F4&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_narration_motion_narration.csv",
+                "sha1sum": "fd627e9c298b1be6d4ec47c0fc1e703f4fb6326b",
+                "file_size_bytes": 135656,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-40p72iwpZhH5fI5d85Hlv1WiHXZI2DVblPtOxDl-byc6_X5w7ZjC-dTwWW-lYBZadGBD45BNTJF0z_dztPXwBVLd9CEEjn7EwveOLzxHOM7hf_sEbU6aRW15GOXwCIYsWYfqqSsDPL5b5_QwTXTyZQUUZrS0WrOgxSBwePXA-X6mCWYI5Eni2HItLH0jH7YT3kP9XmQpS9G4OaA.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act2_8ndt6i_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfGEZZ_x4PX372_cEM_9AA8nPgZ_qiE6cA9nbpMQs-vIKQ&oe=68353DD5&_nc_sid=111504"
+            }
+        },
+        "20230919_s0_andrew_taylor_act1_ih9kea": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_preview_rgb.mp4",
+                "sha1sum": "627a7bc42b99eead8e359d0577c8c8c9b0bf9422",
+                "file_size_bytes": 686155106,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9QfuUEVlcN1lKiD-dbbafY7akqTxsGiwk_3pD4vj-4GJ6TNh1lr_wLfRnVAlCq7-b12PFhija1NhtK-2BQ_kYjedhK3nnyXr_uH7Gf4B8OyAw4OFuUsebb26b3i-RgSc0rSRI9Gh0n7AOo3j07tYGxBuA3roVXoxLsJDqlH9AvqRQyjl6UrhsIPDv7C0TGAazqmugNw-0.mp4/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfFyIMIS4b9NFNc8jlLTwyT4nte5HlbdAX9SFRnhA09TBQ&oe=683561D9&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_body_motion.zip",
+                "sha1sum": "aacf92a7d5878cab034a9cc1ec6357ae296db1c5",
+                "file_size_bytes": 985559969,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-SkFPWI0FcCOZOBlCPLRMLvmW41RUErWpoSdhnnlezYnKWkLEdn2eTHK5p5ePQQQkYWGtZy1jC3fpCDwN6lC7VXh3WIBeXxxYN874SCyQVc-tms9HiQy1oMaLI-LF2xHpruYhlLgZMzgpn8qi4YQmxkf8PieoOyXyet6Ozxf1StIeeRpdDUZ41BDdEAaVH-YHEibJJ.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfGYqMsKM93FzcLTIEqoTaZtZMbLviXUOFugqiN6RU6dLA&oe=68354AD2&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_recording_head.zip",
+                "sha1sum": "a528f89c5bc29775d0b7828076a8a6b85bc40460",
+                "file_size_bytes": 773794322,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9u-05IywNcOPYUg5Ud4paP9l_7Uj6px0mJJ7LEII72lNevxaJtWW0qQTgQGrSVW8kpzuT7FkXKPBx2iYpyk2yAH7o6sW46wnE6bOepBZMYB_qLHfNIYwyeepmKNJyKy3MQawKqKSuEoDc6svOIXiJP9t3-j_c7CzsNjd5yF6odk1wLX_t0Y9XfBH2xhYkyI5GXVx4LMA.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfHtNgpj-UTqG-dbyK2MV1o-pEU3ghWDxY6ifHmBco-62Q&oe=683554DD&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_recording_lwrist.zip",
+                "sha1sum": "c1aefa68fc05dfff130b27a205e67c6db43f04ec",
+                "file_size_bytes": 512044123,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_EtdxjZtSfltXW6DkyEINqo91ogSPHJvhCgTDB1ayOgvlcTv3pbXsXUpLuC5Be7OyKWrH_CPIkHXM7QYJO_ChznR6A2YcI9MStKlxriAoQrYFioTMrlUG4u6THhECtOHdkTPYXiLw_dVQpJGG84IU8a4P5EgjyUzP6uMFaSZmVRcuVIwnZjHgsJ-qwfl5pQwax4yuhleg.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHoFUN4SYNGmo5tp_OXMizxsQ16GEHQLIPYOpgAtB34rA&oe=68352EA9&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_recording_rwrist.zip",
+                "sha1sum": "a31cc14d0db454a2bd8262c7db45b84bba2a223c",
+                "file_size_bytes": 446190838,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_7nn2qWfWw4poaUrXo_KN-H_RbMmH759T4cZRZdtxyiJYY-4RYx0fyvmJqE3bXH1fWVkNAPYmOlHQFPWerTsQZ6ITit2MOJdZF_3mFUws04hjQwW3q70G0OhEVFmt2lthVk7FEPy4abdkV_IVFsH2eeQndNxxclW2SqlXpncYV2VJPLkssdXoxkioAVjF_La2FzZBet6Q.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHsXNzIoBxtivorWA7aHFKVg6GYGLfi7lttuenrtKlqew&oe=68356361&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_recording_observer.zip",
+                "sha1sum": "bc4417c2668bf7b5b8f820f72b26489b52e93029",
+                "file_size_bytes": 628707296,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9iX0kCB8CmfxbSMeyV89zXHmpt7vorPifqtYeYFGJtHvgCdrGTiUwW7eC6BLO5Bn2VnZYTyV1WKHU0F_JOW1k4Libv09aeymlyejD0gbdQosEFGXBkrJz1VA4ABay3ac7fYJ2-PQpyNgfmNE4b3gvoP3se7uMUvF6XeeVUtMpnLedXTXu1xXJVt6XtQ7bpWcIdeXtIuGEGlQ.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfH-JhMcpstseprDN3iwWuzrDXg4TPl0gy-p44cCF8mUSg&oe=68354725&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230919_s0_andrew_taylor_act1_ih9kea_LICENSE/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_LICENSE?_nc_gid&ccb=10-5&oh=00_AfFOI2Rr9c82AyBL0qRDjtPYj2nmuPGj9tH9fOPj1WouUw&oe=68354EFC&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_metadata.json",
+                "sha1sum": "59e877b06df000e716420adc183de5a33e5dfae3",
+                "file_size_bytes": 1371,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9CbfWu5PVA2RZiXv49dHteGhuDCJMsbd_LCfFnD7vffa6o4OaiTfVT8EBNFvU34-RgafrxNpnWGiZlov2rHd8LUXD15ucpeLcy988sq4nc-D5FvjMW2AESAezHQkUY1P20p4XX9x8eyN8iIxUAawXeGszDVKEsMyCli6TeA-D0MfSxbDWNnW5UDfOk9gBB3gy8.json/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_metadata.json?_nc_gid&ccb=10-5&oh=00_AfG49ot0j0qfrd1SANvi7mEAFUK-yk6c0CS9Wt9ZkiQW7w&oe=68353A31&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_narration_atomic_action.csv",
+                "sha1sum": "743cab9ba8ec7e0b359f7df63539b9f633f7a08e",
+                "file_size_bytes": 45955,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8gnK3owACW8GCazcye0t2PhmQQ-rAuBJfZTDpf8EKIx9Cb3CYObhEVX-LT57a4Zd8g84z8kDfFHbzoAZOl1bBnMOaK8HRtYjJIUHUnzq3BxaUpf67v7qUPyWIXF4Est33FVURVgoXfL5HcbyM0nkW0k3WEgiqyg5X3bAwC1ewus96gg3mGir9veL6F_-eICTQ21euCLszxYYwt.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfHuVg7didAYGelFUtZCElGLrgq55YmCa2lVgeOAvFOABQ&oe=68355D14&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_narration_activity_summarization.csv",
+                "sha1sum": "b00ca8a093a7abc799dc7c1aa4efb0715fad4769",
+                "file_size_bytes": 3815,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8zvitPU4cJIw0X6JFW4e3Jk8OFK54sfcb1tlmNp863Fz3U4w9-i_0Km2O4UDbTzI7uARLRSf8zy6B6stPYpIBnpPF_ceGBJjasGoKKVTSibD8MyMRk5O80oqK54lb7sEAoqwkZ3pvOffjOBF_ADGHkaZDWMDk90t0bTNo_dlCtYCS7uLFvHg5I0T8yD9qvsYTxdkz2Y9Xv63UIP4VpSJdv.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfHRyCR2lZQLz7lVwKieGE9TMcr_qKuHdeHY69TaUPTMLQ&oe=6835421F&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_body_xdata.mvnx",
+                "sha1sum": "280ecaeecd40ee5aa60b9b554a453e2737b37f65",
+                "file_size_bytes": 1844458545,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9FIYQTuojzU_3QotARbBWULTFznW9TEXCerpVegR3ZceyrX4_-x7_z7VkZh3czvpJWMkab6Erl48Njaqqnmfxof3NOSGd7yn-zAujjUO7VN0caTu1nNJV8ECVdbvNqNBR4bOUvgezKTAQAUSjei98e63tBwa8wsI0E7KqK_lj8_trFwcOSA5Hv0n9Tr3ZK-WwyDX1PUg.mvnx/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfEw0JGKWjUBnnPpAGxFWUHJB9f8RwmLjkgdQsUy54IqDw&oe=68354A2C&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_narration_motion_narration.csv",
+                "sha1sum": "e718168e25533fc0679b5b2c5facace11ef3e0ac",
+                "file_size_bytes": 71676,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8c2UePfcYSSheCYTaiLI3GMtXXwRh66h97aC3vXbGfMZSQhnPZVmLoB7FwkpI7TFJeiNcmNC9jcYyDHdRbWMYr_dLYiRu5tM6AIIiLI3OS-aoEyQv6oAfAwCF37p3wxcD42uMqoE5GZN2vt9IMV4VgLopow2zUv_YuvO_Zerc2KK1jsbng5_hoiUVHzF-2o4OFTxkiDcD3wmU9Ug.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act1_ih9kea_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfHVQpomLdHHqWg_BXxS6nmm2CGcuZySt7hMs85JHSOU2Q&oe=683545BA&_nc_sid=111504"
+            }
+        },
+        "20230919_s0_andrew_taylor_act0_tyinsd": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_preview_rgb.mp4",
+                "sha1sum": "821f1fec941c498b42f420c8efaf434773fe5057",
+                "file_size_bytes": 758867713,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-fQxPYnq5ghnGinWAs8ukYbD490mANgUGlPCLCph9nsFuuDeN4pzb0j1d8QznrALOH0vebYxOiiahcI_UwXjbwwEVxErwrZJmtRDzFIB0aJiO9KXAu_OTgIOo0catEwK1JmF9D1VX_b3bR-145oz6sComnZ-9p5cMBYDm6dMYwwz_GszHgyLAu1WSwW-J8UYxVFtAyQE8.mp4/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfEzOz8biEhwf6K_DlkRdhj0A5K2rdhbyiUGmtPYY-f1zQ&oe=6835318B&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_body_motion.zip",
+                "sha1sum": "9da8168e0be6615a2ceba361397d45703723fb6c",
+                "file_size_bytes": 1028747497,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_jg9S5SWiJ3fw4quQn35XaonnIeND6rA_0gn2zIZX8ieQVvEPZS4Ol4aQJv1NvZsKb1exLjQGYv0vLZUWg3tlRB2Xp8M0XlOI2aGPyYsRP_BQzMSrTBmcvzAdcasmybwCB0gz4QIIBdJegx1GBamwHepYNcPZk0KKQ0rjO9SnkFgCQ04FLOAMvichP0o5SYp-84p0w.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfG5YzkW30VsJW8gC9pxZrlAXAer6PWkPWFfzrm8xzCr3A&oe=683557F0&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_recording_head.zip",
+                "sha1sum": "a24bc27b493718f3c52a9355587960c0a17dd207",
+                "file_size_bytes": 871998110,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9AnR4JxIZgUVhWBUyD1y5snQlzoxLLmTh-g-joYPSalztbKrbys-OWEZ7bliMPZXCl_39NfXieACAOLS5hgd0Xo0dJKLOMCI0MLYoqY09-labmyy_Fpuew_dsdkbZg3em9MqfzIy5DjnFhH1liPpQoaHBjyfY9tWuPNQ4vdu3hji0g5LDQ0K0z8EIn-DyLs-qQzUOPMA.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfGWSKTBTACI4fHFjRf5tSylOb3nXjY73R_CvlBVRwQ6jw&oe=683549E5&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_recording_lwrist.zip",
+                "sha1sum": "449c7ecf4ac3f0401d66e0898da5826a50328b39",
+                "file_size_bytes": 453126707,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_oH7DQlFG0wNMfqqneR7dAtYpmEJvMCBLS-Va8923E9pUKz_C5urYJ6l4Gvh1YgIDkir907zKAXevHv0nBuuZpm6-jQpOdkFhcJKdRvvy-jBIK6XHt42bj7rNWvjGz1XiF4EzvhcpuYpFIWgjHGBMD1b6pVmaMO717Z-RYTm18-QU8CNf4LkjzRW3PoT6QHt4610qTVrs.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFcOjTzOdrEf01WeUoRnvsiJPJm3OO_EgnCuDV2VYCnbA&oe=68354517&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_recording_rwrist.zip",
+                "sha1sum": "86bcb077ebadc2bd600cabaf01ac04d3d62c37af",
+                "file_size_bytes": 484962613,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-T_aZ2TAIj0JGvTgcnurPwhp71TFJ3pYMvD1XYJTQGMhaGHiE1RTmB4Y8YkCD2l2MiDmJTKYAj6cZAKuzGxSoyX0Ikwx5MO0GYF9Xj2SMy5SjKjKeuidLs3LV3WqByE731KBLABLKgxzxrUykwYnBXGhb8r9g4Djxya5qLfsm1QbSfSRNpR8QU_v4_cTHebnUZ4Iz9iH0.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEMs3hJByEbb-Do3QTqhBMYe4gtovYgNoFIz9TAz1XM6Q&oe=683536AF&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_recording_observer.zip",
+                "sha1sum": "cafcd676c13b5572678e57333fb7645231c51822",
+                "file_size_bytes": 687404197,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-zWk0LBdtknIzRMudnnddoIl7FPWXCeGKG5Ohl_7FwQPZq-TOC_etPY461ioVGYsWSZL9rhIBfymYvFbwXqBZoQB_NW_wvIoqZiPv_CqFIb2F8rD3EAZpDpKNHW4sLmz3sfPLve1xfqlxH3jvsIVzAEYLmhXFyfJwW4AQ_Pmos374F-p7NDYC1AN6FkY98Lk3v9AOCBn70oQ.zip/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfEKHc5LfWTIbfNeDuZ1l7tDgTqSzkRnZ4P8JBxApI1FnA&oe=6835570A&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230919_s0_andrew_taylor_act0_tyinsd_LICENSE/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_LICENSE?_nc_gid&ccb=10-5&oh=00_AfFfbTi2rLL9tKv3ilNW7xBmIK5akSiL_8vQXqLCmfqGwQ&oe=683538CF&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_metadata.json",
+                "sha1sum": "de1ac358fac6e9b410e6b99965289f94573dfa84",
+                "file_size_bytes": 1370,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_tVJVIt_-on1C2QRtXxM6DFjYOrs8VZaV9QVe-v49HQQYOejIuiZAX7N0rKa4_omMsHgIZa9CQdfXya9KSeS7I2xP9x5LKKYmhNw3CV3vNfB5rIQG-pYr5atp8KsLv0WgytBzmgt4Ds4d96J3V8uRXTcyWl6QMuNPpBym_YZOCnvk_64EfQpnVEFWLrn0gbrQ.json/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_metadata.json?_nc_gid&ccb=10-5&oh=00_AfGgXVsv9b6ZEEdtqqNatoVrfC_SHmj4RySmOwl_1MgzfQ&oe=68353A55&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_narration_atomic_action.csv",
+                "sha1sum": "d2553dfa35a66b22e19816d1fa217ab401ea2dc7",
+                "file_size_bytes": 64511,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-TLTuBCGWk0c2qN0D54p6IUOdpaaQFDY-XiGwLMJZV0rVPD_nHnsx_JUuhPsdVy1mjkhJYldiEncH8xMxgSxm-ejjyLlCeUpW8FNjl0wxBjkj9YBlHjQODuhctHdoOzL01cJDd-9xDX-titlINu9l8inolLqbVlQwx6QkoHcEdXXWtxO6gieIXSEZ4J1TcMfnX306E2-CHOtj1.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfEFegfAXb9vdmoN9XwnUX-WE4LDg6iBlnGJWYT_uy-sGQ&oe=6835325C&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_narration_activity_summarization.csv",
+                "sha1sum": "159895ac551c2df0938201cb77593ed643787883",
+                "file_size_bytes": 3574,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An89j5qGb8eNQYBMgePuUb_wteDUivObe4LXav4k3PVumyOlLChiiYgVHDowi2XvH9os71CgbiNsV6Jwh1wdpjlFU15DtYFwIK5L9G_kgzUb0hGohKNPWusBc95drJxOrGRRH8qZ_zEoMtBP-laRKNNnnQUfjYASHQ0fAJ62rhuXyPxJr5rb070bskFtYrEzujxBf-uuyMoGR4ZAC2d6N3ZP.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfH62PLVXahttkYYad7JaCLuZuVoAxTefprswI0UWKmGOQ&oe=68354EE6&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_body_xdata.mvnx",
+                "sha1sum": "7631518effe4c3a1efd024f2826b81ed7399df5f",
+                "file_size_bytes": 1975253581,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_P0uE1BrkuL4sdk3iTP0CHYVEhl2Mr4yJcRNzfQ-EfAg7OL12S99TTWPRARZzgw4ERZ0zztq6IlEd13EBDBqUH-GtIDvVXuMXoF2l7LsEUDOJcRfTE_JEJAuq9bXoRKfnHXeG8P0goZLfVAccX-dGLd_LGxanr_0DlLculvPbP_heXqhH4XTlO1zMkVJBYYFIIXp80Gg.mvnx/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfEa7fKWrIra1D1bhkAze668obSgAu8kYeUckMgGbc3OgA&oe=6835317D&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_narration_motion_narration.csv",
+                "sha1sum": "1c1072ab7613b7ada26451a56a319dc05b2103d6",
+                "file_size_bytes": 83567,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_eu9hJnYvswd4mgwchACtgRcPMmYZXzFYCon8l8zm3vbaYIoX2G78gjO0FdPmcTggRJN9v8-gjeS2dyM60gL7rZEkLx5HFbnhEWMuO7sCizObfWO73QfbEXznK-3LdK5hnHyh_oHw8qjiL88CxihAtuAfiLTlTSF_mco9ycFZ7RSCYViCg8-eJ2t1CWPxbnZe1pIBgnGizt6Kgow.csv/Nymeria_v0.0_20230919_s0_andrew_taylor_act0_tyinsd_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfHQoPk-7-fximlzr8YLRBdGV3t2v5ZE0iw6whggAfopJQ&oe=6835451D&_nc_sid=111504"
+            }
+        },
+        "20230918_s1_bobby_griffith_act4_58yeq0": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_preview_rgb.mp4",
+                "sha1sum": "5692a77dc9bfb62617548c4662011e9d9851d29b",
+                "file_size_bytes": 1295036930,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_DFa9ZC-AR3O4zeFl9ZtHiRto3XVy97RTQklPkQz68kKRob4h5ShTKtG4GHyZC5rZjQ0zZSiW3oST5bSqf_PO0lark5Nf6VMokLZSBR81TKktqqztMz_k7UrtkmyhVW1PmfL6ivzUMnaW1ebDoD5KCq3sjXhreiWFmUwSDPEAjaTw_zSUGZdUhfwA6gRwcC7D4Jdv4hMRnMA.mp4/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfHXqlB13RjRuPdvQWJID70nkcXAHP0IxEUrEVTW-ehCEg&oe=68353A2D&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_body_motion.zip",
+                "sha1sum": "7c1436e839767ac2b0e936c5b16e2aa98cd58a5f",
+                "file_size_bytes": 982099214,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_OftE5DlVZASTJKvkSuK-CQ82KKc2Pfz9Z5CdFsFSevYhzzUr3hrBw5QS2-bdzMBGygUvxxL2Zhjxh_38eI0Zvm4QdAtweKTx-cSRdzNca5wUKtoTxKKXwHlNUls-8a439c1O_MlE3PhVywRUZD9tvLj0uZIORTZd7YZBd24OUtbMQF5mhx511dHwQppNW01G-V7NQj-Y.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfEPJ2e77LMX5lvVj-B_EaSxlZl7fo6E-pOgFljWmQ4Hzw&oe=6835467F&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_recording_head.zip",
+                "sha1sum": "53b704e8fa93f0c90c89710c5ac5163aa2cc3f90",
+                "file_size_bytes": 1396807226,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-rsVBCEqhj4gYY86UvuSJXQSrgk5rXMVhDF38xtDEL4TaPOyPrpxvPPWehecQgxCVCtM9y8RrLCKovzmbQThp89730yiF0qE1-nevcozl4Abzr2q1NOct8UjdSp90IkfBKAqLx1xREItxD3awnvMd6ywQsNzC9hk45TXXE5_KgwPOHqysC5bRAqr0GadfPbgZZ8x6kPF0u.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfHJUKtW4NPAvb20ztbknOzVB5_1MhOEBYkDfaFryjgyPw&oe=68353488&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_recording_lwrist.zip",
+                "sha1sum": "fceb9a1745ca078fe8f62acfff7d84b75bf29dec",
+                "file_size_bytes": 1109429566,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-n-4DwnOzhg8KIUcH-rIcGUUOk8fHENIFx06LtDg_2NBW3fkzxwhRCkIN0jZXd97-uh79DpckXCXnjxJ7wjsbWenDoFWx5bA-SC8yKhPo0jhO7Ejc0hsPeSQnjxBMfJkhUdllgjAe40RT-DFRcL1bwq9YT8qrbC9X_6j86Ixu6SCib2hMx4MRQIW-MSuHwsOKLAIq1O7c3fw.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHnQrhcIFTaTk2rvz1t4x0kr9THOT-iLAoMDVKPjuhfWQ&oe=68354FC0&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_recording_rwrist.zip",
+                "sha1sum": "b979d15e671d2625c6eb77135dc33cfa65f53127",
+                "file_size_bytes": 1194020870,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-wBuo76-l4A3F_9lnq-PcrKgBLJnbIXe-xvO4DBHY04ab4bSbwTW1p0PoUdjwlgtDdTPq5II8bgJ_AVL--nuNpBpHmPDBlG0adXuDQvDD-cKNtS0jiAiIbXd4a1qtDezYOWaME47WbdzpVQ1y_KlRRfq1_LiXKCbjpfzlZ40HXQiSh_-54iuSG4SSHs2upNllFqYe4vKjVXQ.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfF4_9JKP5_ZbAU-8pxqE3-zQiQRAIhLmxKJhWKu0vmgfA&oe=683561EC&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_recording_observer.zip",
+                "sha1sum": "6cd62b7bed43816547c173613b9aff5068cd45a0",
+                "file_size_bytes": 1305056792,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-St2ODJOGpv7RepkRmBhkLpMAE9CWFVnVsWbnG88htu6zhO68J6n2CG__9N8KEgcBCqqxASK0pb2aCoRA0uk1J26eb7Kea_IFIAjDO7L0F3Yyq3Bc5PEdLx7rkBLVlzPfSYeweqMlpd_Nnko9qzHA-QJpqgfy09VUXjyUtl9QJiR7D-qJFkPKTZ8Bb4li6P5I-aIOU4utlPYFH.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfH6F17nxVHuJKlXfUpD25LXH48NoNd9C1XxciP2SQWlvw&oe=68352D01&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s1_bobby_griffith_act4_58yeq0_LICENSE/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_LICENSE?_nc_gid&ccb=10-5&oh=00_AfEK-ZcZTKzv3InW1g3HSqf9_3YQT7XaluPbGlp26PWGFg&oe=68355736&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_metadata.json",
+                "sha1sum": "2d9f212a84f80d4161a48483ae9d4bdd6fc05e11",
+                "file_size_bytes": 1365,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8KbJPSms2JRu9xj7OqnjSrSxf-97ADeUDNxv2F_o7aFZUx4pymJFryHbvvFDN9sX1dRgJNn7V-nScibZFQdk1GapCCXAz70_w6hOETaVe70DIb7-vuA3p5mbIEY16jabIKWXXKBy6UcSGcYCc0yfm4RV3sc5Dmtl4yp2Tlq9dR6aaSycMjVoRFXF-TPTT6-i30fPg.json/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_metadata.json?_nc_gid&ccb=10-5&oh=00_AfGGdeSnoeYGR78dz9NgKsnbbuNVxgvnLmJ1H0PtNhiMBA&oe=68356097&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_narration_atomic_action.csv",
+                "sha1sum": "2b8d25ee5e0b718a71037b67c0780db0c1ec5f7c",
+                "file_size_bytes": 38549,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8QszkTxY1dAW7rbvj_6ez90aCn3gtB08w-PI0JkS2N3aUxkLYa383IuFytHelAQDX9FRbkVC3f_zZhomCv9HnXKLg85Q6oia-IdfNeDf5vSGKx4TuZfzALhibKzOPiOr8FuXdj3qmX2XW9KHRauK3oMYqOvaoGJcprs5JdH9iFJMbFFqfDmKgJmHkCEPvXfQRkae7nR-n3f4Z1CzE.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfExvO0n7PFy88k6F-Evr72LNtUBnPVYWJUdtgG8TCyQfQ&oe=68352F7B&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_narration_activity_summarization.csv",
+                "sha1sum": "2289e380ac60e97f73c63658e2e9ab47645c20c1",
+                "file_size_bytes": 3238,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_m_wth9W-W-Uxiu7R7xSQjO2z--NnxPBvZ0aRPl8ixujuzruffbu4643Cmehz2oyfO85H_Qt_jVGs6JZf9Or4l2zi0NntSM1AyydMnaNJIPbooYR-DBf0XL9mHIMFJEg7ZyiCEFVfSDp8dPLOy-O7mkOTZBwzWKpfLlUEo55sn1gs3aCvJXheHNNwGRt3QLFaPuFV6qpCS8NmZaX06H7uKT-g.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfHew15LJed53Rh3-WrsXSbQI3NkU9A5hXYU4V4hgDMzIQ&oe=68352FB5&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_body_xdata.mvnx",
+                "sha1sum": "9d6609362e07ff109c2c912335808986d002b229",
+                "file_size_bytes": 1829006830,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_RZs4oDDknG2FtObCBEQUFReKOjxSFxp98_wILs8aXWFFZ0bQAlf6HaX_ifuANTBzZz0TpSsJyMap3VCJR5NPjvbRwJmOrl4po58Ke-H3sIq1bA_0CuhUVkcaTFvV8sZ4Yar06Os14W_292k75aSKJOUufc_63-BJUulWeWT7FUQp6Ttl6hh4YhCYNHJ-QxVbA_laWCXHs.mvnx/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfGDL2iR2eTPlrA4ESzJi40s7PyVAuZZZi3mXKmW5BtS3A&oe=68353F45&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_narration_motion_narration.csv",
+                "sha1sum": "8939847ac4f8f7b8a68180fef84591d95628596d",
+                "file_size_bytes": 93901,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8LKxdOEK923uZYtxCNQcpPpFaQnkaMnkUfdpeeZpIJd_87LWxCx9zgoox9jhATusD_fEE2PGQWFhYSfxAyCe0IM_bJmawZATAREjUQ4i2G4oA5kXveyJf121ktJGFivvrB5HgEn7sBGOo8MNN2kNPFkJ0y0zC139ZwoH50lja1W1QBqsn_0gQynKKZIvnYKhF9mSGrkNQOgQfeQt5R.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act4_58yeq0_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfHohLAbabMiT-olJHJ6CIWgfOgzOaRkof_gp9vjTE345Q&oe=68353004&_nc_sid=111504"
+            }
+        },
+        "20230918_s1_bobby_griffith_act3_c46j7j": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_preview_rgb.mp4",
+                "sha1sum": "efc79fd5ef72a98075c1cafb927a335ca76c2c22",
+                "file_size_bytes": 1034750722,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9DmckT1loUrcemaXDVddeB8dF1mJ9EHYRvHYgxkjghBHalgWqKEd9Ir0GFmVIDJ_Iiq1EJNtCHqLILs4QmfexCdKAPkkwNcrtmlOyol_cMztYSypbBvHJlvj0svpmskoU7KAKrOq6cNPDMOjg0b_GQspHDdIqdekxjjaYMRMn-Dj3BVloDm8IjtwIgEEo-h_LZbMQQT-Q-DA.mp4/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfGg2Vd7PpSVLl99c_lJwqD015lP2RTAEyD3ov2eC6AsZg&oe=68354C8F&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_body_motion.zip",
+                "sha1sum": "0b67aceeed3764c1fc4ad85597abb3017a505bd4",
+                "file_size_bytes": 986676820,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9MFSBibdfbVCdsQeYeS_fhQ29j5xKWdAARqG6QQxv2dMyb6C4KThI9IeXWNg_iNPgmWC-mQpAshN6GE_dBPtMK9UL6JyQV5kBX8zhmA_9K5Ds9a6hP5anhSw6whEMZo5C4Enn9D2-QXa1n4_RzYMO0M_AtEeoQ_ai_bJVAaeeO72JQzhMlt3XDejT6DHc_UPsambd23hY.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfGJwBQcIcDq0mVSqzYnhX5Zr-fkD5cdjyH6kAs1FkL4Ew&oe=683552AE&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_recording_head.zip",
+                "sha1sum": "ca670b4e6e33fa2114f5e17aa68755827ea7a492",
+                "file_size_bytes": 883156735,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-P6Up3UlsUE3vnoG37TYNPIXJJ6B90L4zckvrfnvCgK0odoPof0tzLW3u6EVhWYrha2-CV8OlphqEdBW2cFDm7ZW8qCgf-yahAjMMaaHI8weud0RYUpmwlOvzzPF8YUKfSHlp2ylOSJzrFFwHxJ3nKd3Z8SZCrXPXjrY8mP-0GVohiYbqyEaPKOycE93UweVbZmQLVQvYf.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfEECfR6v5HXd38Yo1KHMUkWuOIh6vnxO1Lu4TD7ybivkw&oe=68354F63&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_recording_lwrist.zip",
+                "sha1sum": "bfe012930b444e0ea5c42f08e0e5837d8df5a72a",
+                "file_size_bytes": 975455068,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-VQGmRN08_b8igZ-ObOR4X9y90shX-RDDp8SZrRzMznU9NRU801HmhclDrcS5pgVJ9DdcpWVad8qiMmLSanC7g1daPctwgLjqGcxH6HyVJlgeGLr2fDq_ob5uHDwlN96qzPtv_UpEdaY1kD1gIbEHgNy2u9z-NKi_N6NJZTS0eAEn2o2ztj9HapLf_zMDM17C4aidW4opMDQ.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFEIZazx3vWy-eVwrhSIlQWhuD2CUys1gwSbSKyklkB1A&oe=68352DDA&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_recording_rwrist.zip",
+                "sha1sum": "13240a2d22669472df52d50db9b5ebe4afec3246",
+                "file_size_bytes": 909888043,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An82D-XmbISvkSfVWAa17ga3O7orveZISIF3lRV7RjqcOeYZPveSWauMPjD_k3W1FVo1kklnCHurcznDqPa6L5Fwuw9VCFjWOp3wWrKdAJ54XbliAdS439A2iGtcP_zVDlo4pzwuhEgZYDXOn8DpnaNn-_xebEBStgyIhZeJzkh9Xr08hoTBhu_Ec1CTajdO_QJ5AVskT4j7pg.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFFwNBU5lsmLLdSkoOCR7_uZDj6xbVaEH2J-8zg2DclkQ&oe=68354199&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_recording_observer.zip",
+                "sha1sum": "7c3eefffe5bd303e4e658e1a2cc6214376b0e663",
+                "file_size_bytes": 748011337,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-x4zjCFUs_-T_p6xvRV8CT35BRKplNnQFAh63lKh-NnI0cE7drq04v3wz5Waja7Vrlz4995dzpMbdvLDCO3W-BE9WD6BO8WrI08xttQpDEK_TIi_jr_urG7oj1RXnDtnH3FBY9gAFxvbUau1X4OKzVpcTdWm61jlkoMeWJGKcStq5G3VmuGI4c-Aho-o80MR3kF6Q8jHXKtw19.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfEC-iow6H7ymdsd4JML9Oq3h99Gnf__ux_9GovuRY6cMQ&oe=68353504&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s1_bobby_griffith_act3_c46j7j_LICENSE/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_LICENSE?_nc_gid&ccb=10-5&oh=00_AfEaGcEUV8J1BT90H4wojAqGM9C0E963-wn_U4SZPNADCg&oe=6835415C&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_metadata.json",
+                "sha1sum": "c45fd3ed31c3ba7a1e0eaef783114c519aadd417",
+                "file_size_bytes": 1378,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An90UVAk3igJBZP8jDewt2m_mX0fuZmKF0BUUWe5KTMZa6LNKdBbX8jXIW-30GblyoBTDFiEu_cL7vv-lq_JSXXIS0MMAehlYABQCT4tc2sAXko_A-Ais2uDHH8Pep9oBM2VFOW_ax4hrmbgFsKQjnZkAOQG6MYut5DK9ujrsj1M6tm_h5sSbQ13ypy7M6iXFiC6Twc.json/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_metadata.json?_nc_gid&ccb=10-5&oh=00_AfEvUGns_OmZeCDtiKY1vSUxgcFWU7kMkcLotm0ekclW6g&oe=68354927&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_narration_atomic_action.csv",
+                "sha1sum": "7de6adda140c19f5475d860c50c82b3f19d0df19",
+                "file_size_bytes": 62034,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-Lq-ZD-liLqAhJbVVgj1FihEKIg4ShbcZQDzQt0tl2iEuEjtlR-kUmsvCnf9L5MhZvqRwsw4hPy4d5eANyrAF2ugxCGP2TNm9KZ_Jm-AV3XYwpgRZ4riB4omqYJ1eTk49riYgp-Xhu8zoRKj2P4XXpCiNd2cOLaskBBzqKQPlFdDPp2VKxXux1XjFOTS4kwJnFrXrAq8q04MNlDP8.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfFwKQMPRKdhBZQu9NeyXl13sJYYXRWDb_bpRZnNWDM4Iw&oe=68352E6E&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_narration_activity_summarization.csv",
+                "sha1sum": "10d2fc9444c818ed7dbb638a2ac592091a46e7bc",
+                "file_size_bytes": 3307,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-evpyr_RID-VvRZwCAawlpzZp6ErMuN_NfpVw_3YiWKpjPQQ99O5dQOq2AiXNxUcUDl6LE5hPgoPwCAt_u43PwdZarg3vz9saXN0dnLFQEAEfc0K0epw-0HCbYmXxp5AJaBC2clf3Z8T_m5_Ag4ueho8KloMmCXFQqbSq6-SfnFZvaD0q1B0c69sfWoiKR6YwRTOgJ76a8TYvzJ5HXjb87AOs.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfGoy0soppj8cv_0G52CuC8Hx4Z8PgFFfE1yw_C0mpVIGQ&oe=68355846&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_body_xdata.mvnx",
+                "sha1sum": "e411f98e3ce25b3fc501eb49eb951d3a184f19d9",
+                "file_size_bytes": 1809482309,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8VWHyWJZ6cK3tBfzy8UI40fiPeqovy3fAr7qC3P81NfvQPts0OtFcRGS7vvR1_TtMmuOTZAFVeHCWxuUszGNHsAAhTSIOSx8JNAFhHrdM3T5P59iSRFz__mVfxXfHwZJecD6YEmXm44-89sZgQ32aelf2MYAA7g5kEfeV7hakzysTTevNl3PkTSg7nzwMihHMVXnAon7mk.mvnx/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfEiThWOy0n670wXSu5GEnzPMYak4fQlQH7Tr8Wujhx9gg&oe=683551A0&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_narration_motion_narration.csv",
+                "sha1sum": "ce0f89a09f868acb830bd124f8704661f09d7c4a",
+                "file_size_bytes": 9877,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8LVwYofQiB_0QlJn9yKFuwJ-E565nbxFZEp10WYoMe6LPXhGliD5OJqMKQ12Ea5ktSQlSLzjXWDD9o3tvI4Z7UTqDFAt-JAYL3uj2VIyIqEqI080Tepzxeo0jSn3bL935ZToPPwbSj-09n7GBFoOZVL-3b9sbQSE6Vo3j4aMbMmB2MnSuzQl62JH7LJLBtqK8Vn0QRtloigbCIDI2N.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act3_c46j7j_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfEuXH0oAAWBO9QqX9zX2iemNRIdOC7hiXI2XP0zvmGRTw&oe=68353430&_nc_sid=111504"
+            }
+        },
+        "20230918_s1_bobby_griffith_act2_zq7ydf": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_preview_rgb.mp4",
+                "sha1sum": "94d1887da806eaf3e11eb1e335fa53007d7cb133",
+                "file_size_bytes": 601664020,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_wMGdjZ632KWxqTmcNIuFvWmDOlz1wDb6ErJdJWLpdXtoftJCzVzuxAX7UIBwBmYmdnVfL_taw7NOsyFQaqixtAxp9PtTV_rs0Ir9DXq_JsmMR2kMFavkyQ4NCjqI1X8GVpwxIWly8NfGrMFqe_qiqy_m-s1p4UXchgexdKErLejowJGEepnIrnq3wu9Bag-E-ivdPOmFNpw.mp4/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfGAVdA8AFJmQs2A6o_Nro9CULu9qzhvydwpBEHwRWw4aQ&oe=6835308A&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_body_motion.zip",
+                "sha1sum": "07082c165864fdb110aaefb3b82aaf2cd77a8d30",
+                "file_size_bytes": 938774182,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An92NKx-rhFoFJn59kfP28A4ixgFp2XnBKxET5ueYI42d86bzLao-6MNfo_Kk4phCt2JwRxrNnLka43T49jtEyRnideu-4OMJuH6HxnOuAJW7_UB0c5DrMMzxaTatnLXATMKYXP7ukQE7J_XWiH9LVU-iES3oUaa_jKyUjkY4h7i16DTBjWlMh2BLTTMw03EMoBD9t2RKx0.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfHjPpoFuw0OGP3AKQsgvUfu-ufFk5IO119cgCn3FUOAmw&oe=68354B59&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_recording_head.zip",
+                "sha1sum": "9397a22d482eef9d2dd13102626a526591220b3d",
+                "file_size_bytes": 546690079,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9cDe6HkYeR4oj2zxrAz0RtcCfaKg8eUELi9whBEti5AbRNKa0iAsJCMh8Vx5ZeZZtN1f8baREkqYC9JpIw5_exOOCMDzNZlh8rDrsRiC9yR6dgvgDXiH49pbHe4hgBB46qYWMswwGSEAQrB7OCWWUpj6M5qza5zBrOwxOsnCLgPbk-D9a1aJPEEy2unogubQ81JdL4YDuq.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfHKLJreNoxuGMuoK-ZxwsvsJUPhqEcuMvp9_GoJvhOvhg&oe=6835324F&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_recording_lwrist.zip",
+                "sha1sum": "fda54474ef159161f15ff93817d90651441ecd36",
+                "file_size_bytes": 258186788,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_PIyVz6MDgf0iqtRzMw9xanaGk1EvVUz1Kuw1MxXJr1CBQwAVAq_oUokcS52NQO4EaI1NizF6IyL8u1eUqg2WikplYVPbDqk7RrhUvmPuen3EDkG9V0Uvij0HJcYcD0OQp_94YBSxcY9J7ftUWP0g1kLimMAHK4dq3yEopO78pgS2zsIufiuEPMSZfvqwW8SEcoN-AaGjVFw.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfH6kSxaD3U8U6ZCpQH6qj0ImkftSrQkGsMSsevHJyCWrQ&oe=683556A4&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_recording_rwrist.zip",
+                "sha1sum": "64064f548620c3061dc4517c85aea2aec6b01aee",
+                "file_size_bytes": 282338723,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8KL_RcrwJddEm3fVnA8PE2GDoNq5rgYBluJew2C-GLe_bIVYF-XxwE5NPlayfSXoBjGsQe4_eC7QWzelXnrJNFFVkPxW9fZv000n-wDXPCnPGWX1ZdlhrN5Y8fr3AUfOZRbDV5MBlNou37MnNhI4a2IscJMayOFd6_Lj4zyp7mJG0G2dHNDu5vL-fJpR_sKAJhlCOh2qK1Ow.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFmOPQ3eEsIr-Sf9fpob48c5L_pmyEEepeE_tLi_PpPVA&oe=68355C5A&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_recording_observer.zip",
+                "sha1sum": "cb81ec3df71cb04d134980cdb42c26151a61bdee",
+                "file_size_bytes": 436504255,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-AUuzch3e88ciCw0s1vHV2Nh1goqkSUbFYNcNDNU6nfJ79n8NC0RbnbcHOU-SRPKbjNjxoDloSaWazPSMn8FBmXdILqBHc6maAEIEvzPNxl1_nf3Q-7juUtK4usHLSJqrpSBE0Pqq7tqON0QVohmplh0le7gJo_h6xGm90Rvh4nxLmT2GwPqVmCq1RuhueeM4LEPGQFn9pxlcU.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfEjvyJmqyblXcC08Jz0z7RA2D7k5DVaTDX4Mp68KJyUCQ&oe=68355EAC&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s1_bobby_griffith_act2_zq7ydf_LICENSE/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_LICENSE?_nc_gid&ccb=10-5&oh=00_AfFbkdsvy3n8CjQO_9TtTVmW5pGVCBzCfUG_ZyWJjQC8iA&oe=68355752&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_metadata.json",
+                "sha1sum": "a05e4aabe140a1b24c35fa5e8a76bac8885320cb",
+                "file_size_bytes": 1367,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9iZxLbOBSz-UGbqF_Obv1tJUF-tisMBQ_rgHDNpfRcVrewCMPJUBNHtf3OA99Mui6XBWuNxxat3mYxtRQCEOk7PPSdP86mxU8Oj8KIxk55orF74EgA357LT-aOCyeKm7nFyR9dDkhOZZoqf3KhlqR3IHAM1LdUlZICnVibG2sDWklM4B_t9x-pYgxg6Grfy4UFucE.json/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_metadata.json?_nc_gid&ccb=10-5&oh=00_AfGpC382h-zuMEMsd6seBp6gvyvBkmJA4kaBZPhBq5AelA&oe=68353BDD&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_narration_atomic_action.csv",
+                "sha1sum": "aefbe6fdf2384767b714f20e750e74827d1f7962",
+                "file_size_bytes": 52501,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-jj13CKk4EXVZUtFDd5bBEwOhx-GNS_gTfdvCPDM3XeKPgKG16pgD769lT5rQJzIyLKcqGMGSGoF0oaT3sas1ivtgQKGD-w6ReJ55v_SMVZ2cZoAkoQDqMHINoFVe2Z45B3dI4u5bnvpnjc82D92lnrG6gm1mTYeT0ZAWgQcVQYsSGBrU9mXkqpkePMkiN37ip2tf7bvrqryZv6aw.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfGhAVGazn_fh5iVcRJDrGPUJct-QOGeLcE-Iq6uvybmMQ&oe=68353F55&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_narration_activity_summarization.csv",
+                "sha1sum": "ec34e58b82178e78f841935b05ddd471fa56dd5b",
+                "file_size_bytes": 4708,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8nmAwJo-MNB-fZJ5QM6PQ9-uY-viocobNMaYEDDWooxJQkGL2AQ_KdiLpUNNGqyNOJjEkWP88Yw9L3IpCDOU5CuFgE_-haDsJY4SizU4B2lsOpZ6NKODQUxjxkw3s_kWEW-zCg1rke6p-cZDsW_oD7JmiMi2TYLG2_FggY2uXSnYOdh7Appsxe2g7il2ZsiNt9t5hBv6OTdaXXlhB-l6IMq3A.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfHfmx4n0pL_r9opFfxGNjugTiGVdUodW4dZ-SDWeK81hw&oe=6835643A&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_body_xdata.mvnx",
+                "sha1sum": "def20791ffebf71f5329a804ad18e0862fc6cb27",
+                "file_size_bytes": 1820999750,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9frvFixJiMo78iv94-SIKfQUXmSJ1RD6KpsBkEaJ0NLGTatOtuk1nrSZXCWFMPB0yookTnY-ANDjHDwqSJ7WZerJuVEKbt7yKkVEHRi01NUSCR1nFVkrRO_xhTeph0d2qo_YANFZJcC6woy1lQz5mJkW9dUx-yI2UdCNccWJBbT7Uuz-eBWXzxNJOH_sTK6tMmGjfPOwDc.mvnx/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfFYoHNv3ZqDfTwXL_jZuZP0TurVJEsvdEJlrSCoDN7PWA&oe=68355AB3&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_narration_motion_narration.csv",
+                "sha1sum": "30421a3d398fe9be01b21d1ab840147901b44931",
+                "file_size_bytes": 32991,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-KE6AFj1Zw3ZVlix6fTmMujuR4Mizqe0r0UThh59e_adlthtT3DFef2FqDdIgCuvXZbY4INwsEQtN8WkxeeMXjE3376F_vLRrWBrDQJK6Q8pru01SKbqF0QaT3J9gszB6Ex_412diPodpRY6DEqa2T6EmV0_JJHTTNWR5_NUBiQr_ZOBTWyGUbYzzqL4s2E6RUkPW7yPRuB1bsly4_.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act2_zq7ydf_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfFnykHX7czfQHawlQ4awp3RAnxZBQFbZN2sL5_tKEkBMQ&oe=68353884&_nc_sid=111504"
+            }
+        },
+        "20230918_s1_bobby_griffith_act1_fkmaqv": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_preview_rgb.mp4",
+                "sha1sum": "2f8c6def9e730e8bc34d810416d93d0ada9ac9da",
+                "file_size_bytes": 660769593,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8utxIeTYu-XvdpgzS6G3O1w46fjezsXvDixSBeulz8TUTJsgtWT_KzaMTww7-r4HQo-xujkDHH60VZeaoWqwOnwN8zwAzQC9cwIMOa4Qq5H963BserG0ouf5l8E1QbD3NB1pBbv1ZxR_h-4_CgLgB4nmiS-Fymo-vsjwQ8VtxLxNkqDH3hadpF9qqLpVz6lyGkisciJWNx.mp4/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfEPDdcjgXOES3YEL6I7FePSPmign5WKNj6TCSU38qeQ0A&oe=68355269&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_body_motion.zip",
+                "sha1sum": "98587b36aaea2be6d13f536e1c3c6b0bc8eca7eb",
+                "file_size_bytes": 991182150,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8XkwdWR4bzf9qyhNA-OFsSbAiXKpHAlraIEI5oLaKfOL11C_ETzfeJkeCUvGXa8IBsOm4WGOSpgDFunanJc5asx6Eg7UmqwTjIjnaX92xW0SnPyZpQf-QEgFhOL3O7MqzDOlGa-BB29Jm1dRFYhB32fpiSBPTW1Xs7MlmhgL4Qudx47aICFHqQuingfYmTklfMRwDiSg.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfEqeiStQh2S0-2vEEYa2rtPtbGW1s52Rx-_m27jDjlP3g&oe=68354F67&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_recording_head.zip",
+                "sha1sum": "0352e97fd68de4b96bfc46f9071e073393db142e",
+                "file_size_bytes": 773790237,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-26vG24C2mpQA799E98NDQY0iurLUVsf57c283sD35eZUW-0T1oebNRjkXfw1yZGPHUWvp2x62ZlhyGBfmLgNop01UniiITe412dVQhELtsNQbBX3j2GRLrPmyvwmbjwY6Wx8kmg3e7QACGNNfVUoLfE3jq6m9QQnmkwQf2sTUPG9YnhZNTFaqwLLEbVtqxOeYM65W_TQ.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfFUZw3D2TLsjfP5FwwMsAF4EmvH6iVeSyisbCSekxFqzg&oe=68355EF8&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_recording_lwrist.zip",
+                "sha1sum": "e11281cdcec6de6c8f8aa2626ba2431eb3b748f0",
+                "file_size_bytes": 490675559,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8yATgdBitIRyBqFMxR2_fHVl2b_APq38VTExs3Wvv-iByaBkqnVNeensc18xqRxVAu81b7gQwjRSBrbGF9b5lnWfAszRpao3I-OihQRvRu--I1GUtapkooSMS5PT-t8KMagZ2eBH-hcLR8P8RAGe0oeVjZrGa_2mc3YUSC4JVJPCQtF1w2PPMmp7x6IYgRBzL79dw9pr5J.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfGK85ZD4RovnKWkPeeGkSd0tYt7AbL7F8SEM--F19kpYA&oe=6835413E&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_recording_rwrist.zip",
+                "sha1sum": "b2a406dfe703898bc02f67563d0946e658b6af77",
+                "file_size_bytes": 528800524,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8B7Yw5C4Ag7wleD9YCLVgiHf-fszZOuqa-tD4zycADWyOEYvQ0T-bG3UjK14IDQFekpKO40CmOJ_eKF9NoQ1fNdInDu7l-_CMOMR9r-Ws6QHSt4x1RYrwYELcJ0EXUBoBxBKeStIvTT-YoLbT6CmyoCl_ync-prRwHuyx_ln5Gt4D5vFOFFTUlS4CQroVQlpJ9Gon4KsfY.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFpMLGC9nbgKMsPc7C-6L_FVAqwjHAM-6iZ0hJ6VgXGrw&oe=68353943&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_recording_observer.zip",
+                "sha1sum": "024749ac646b6bc93ba2c1ce69de6519c509a7be",
+                "file_size_bytes": 622515665,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_lY5EW7-yYTshEE2ZlNjLh7ruyOLAKYW8-HOR-Grbemowp7gsMj2ByfTbjqEJC8GYsNthKjhUHJXAEPXBYVw382Z53c5P7cr2hIKQeWTNnrh89MInGqjlh3hEUjo4d1eVW4eRQIc44E8UxZXqxRamOVjYiMYv_Q2ebjZVSoRCFBvs0fh676jK6usg6uIW4CQT04Y70GZZeS9A.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfGycB-eZ1BMzLbo4QvJabGegMUNWkQBO8PYWHohxfAfbg&oe=683563B6&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s1_bobby_griffith_act1_fkmaqv_LICENSE/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_LICENSE?_nc_gid&ccb=10-5&oh=00_AfHEqWk04qB2o3xxP2GWPKkNMrWzLr89ZRjsuoJHIsPOqQ&oe=68354168&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_metadata.json",
+                "sha1sum": "4810bab800d7dae0256afd17ed8c6e73fc2211b1",
+                "file_size_bytes": 1369,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An87lNxDagtJZ_MI1Y306arBpzYkaKWoo5hMqwUl4vfHduBOma05c_Vlhgn2Q8Ec25-TVmzxRHvpfAdqxFomUAUojrIk6eHkK4SNv-6923YZId4evcTLdgIGqi4B7i0Di1Manj2A93lINBXAT8ksVNeZYS68rzGYVigwm8qSDrmw5q6i4Rh485xV4AyQ62g6t2PjFg.json/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_metadata.json?_nc_gid&ccb=10-5&oh=00_AfF6lsC5M5g5WoFUXeTHN5HpSm0nwqdyXbf4msuDZDefaQ&oe=683557B4&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_narration_atomic_action.csv",
+                "sha1sum": "2340e4ed81c16079f3328d1b98ad2f8cf5a950b7",
+                "file_size_bytes": 56851,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_vsO-tBTeQsKhO9jtkRHsatiAppuilWvOdTRQEsXtuGFuT5FYfTr1105fBQEslSTNeN2Mr7Otc_Ltdd2f-e-knDnuT6Eo3-67M4O_37PrWBXeRRRiRb1V1mFcIs5xy9c0vzyoiApiKl0OcFYqUZkwPC7_bHz6vNNX3lWD2NDvbzAKkZDnEsfssNzYYlDUeSrq2Xn5HKIp3_4tKIA.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfFi83fdKeSzLC1YLV9Ro6h_dVN0hXGdFF6bzOOs7bKLpQ&oe=68353095&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_narration_activity_summarization.csv",
+                "sha1sum": "674628466162dbe710caf70a5f41afcf195daf74",
+                "file_size_bytes": 4990,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9Z1Zi1A_Ib5rl3i_55XSqOa6tNjBGENIdW7GQD_Qe-Ud8xGxd8ghniC0fepOEGz4pikk-5eKWk8YYH-xk-mwAuAKLnhvMKi9deoYqDJjf-NCt6p289nSiMSPu3SApnE_mdDv8DpMot-pH5ocmMFHE0z0Tu5CHdNEQReRiwq5JThsbDFY52NjM6G9fC1dEuGgsocy0fwNE_e2RmYy7GuVpEtQ.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfGbSwMwrhzRq0umZu2WtsZecbAX4tVdtLJarnNLW2aBiA&oe=683556B2&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_body_xdata.mvnx",
+                "sha1sum": "ef785cd37705fb72fa3c585ab3461bb6a87eedc2",
+                "file_size_bytes": 1841304036,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An82ChwXzEfY6TyLDRsT8Gq-AyOEe6eOQuUclUBEjwXS5PYXq_2w6nkfD6YECbSCtzIkWnpPZiY1TzDHMR0DhIGVa50gsthmlDpjPVdcied4OhisL4kIoHaEH2Dmygal46D4x5IbH7hSJlnCZ0shKbvD3MXkWwetfK7WzDqKZ5rWZPpCJZeaZui1cFTX4WjYOabjWJDZVaY.mvnx/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfGcqicU-t6gMontnjhuYT0mqhFNRsu9kUdikQ82CzG5jg&oe=68352E1B&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_narration_motion_narration.csv",
+                "sha1sum": "a9893c17178e9c3c7c1a851182b7c3720a99b15c",
+                "file_size_bytes": 16307,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-kzFBmG3yf3SQhwQpwGUCVyviGZkz0qG3npuO4-S_iXUsHKjAOcRUAInpUj7FCGLBP2iGge21XLMxuhPhYJXQPahU1H4BH7WNYf8Fz07-8gN8vB9xlvk5fPZbLgTEaH2aNKrhdzLQRZf5p-XLuUe42T0GHbVdBAzgIMWFJVfyRGaKpZQtwGT0ls0R3EzxTeN97h4AZzo7wpmuYxss.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act1_fkmaqv_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfHZxfVI_3R2LikYMuoS3Ki01hnmvSYa75MYSkZuwbNBlg&oe=68353662&_nc_sid=111504"
+            }
+        },
+        "20230918_s1_bobby_griffith_act0_fzv3mk": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_preview_rgb.mp4",
+                "sha1sum": "d7e4b6f2d335ba03f96da86715658229b888939b",
+                "file_size_bytes": 761854326,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9VBgIt7qXt5bLLXG64gyylT85cQ0Ydy50yhltT9hLGCMmalTGzUbxxwR0VU4Rolfx2YckdH8eNOl98VAV_JGxCABPGQx7_ihhu_WgPUMHXVUwfedJRAQc4jYlF58nbmyGThzaWwEHCVlOOejtYmSnJkLEH8dz-csy1DQB-NZnUvl6IovYubVBmlN3etU6MZSG_DvDUip-RzQ.mp4/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfEIT4_nTyS8iST6UdTHIeiFJ_VS1vQgMJG7r7N34t1P_Q&oe=68355CE0&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_body_motion.zip",
+                "sha1sum": "d5d82bf6c718c6079803dbe8eae978114b034416",
+                "file_size_bytes": 917228382,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8cCXORgfkohk9Xif0tShuIk0PQmeetVVFZfdab45zE8_BpRJz619nbUEVNhEmMZcLilPEyxnrW415k2stb_d2WaSc6KynyfBU0f5EwCtcfygXOi0UkUer_VRdkWGmmYOSZo7t5u7NoaODb8o-hBU_1sFwxnXLLFFi0oXW19MYRtH2iF2xOa0aO88Ps9D-MRUULzq7zKFs.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfFYCquKYuQvFt99vRFWKeNb_dR0JSkxA7yBt0dHUSvEDQ&oe=68353343&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_recording_head.zip",
+                "sha1sum": "b4f41002a5849d738c5976953f96c4774718f59a",
+                "file_size_bytes": 776541333,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9y0MOVUOYMU6KGYsaXqQBvi1tjAfj1YRStkxroIf_sQMblIZEv_KLCrV-xahNx19guRwH6w3GZWFLgD6foCJfhgpJ-ectPT93SnT4enD2hXYo4QF6RAaUfDr70GSmjzXHTK16ZW7Px00u7LUhxYYXvfp_PH95V0GP875NNUryGyqgLjV6V_zqzfkC6HqyVqkHx9BBDiDDL.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfHmn-O3hlUo0RQwZPDsI5R6iIjbbSk5gy3i749IwuBKWA&oe=6835487B&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_recording_lwrist.zip",
+                "sha1sum": "4c24907ec547edad001ddaf467e9acc8eded6fea",
+                "file_size_bytes": 416915767,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-00_cKcF2yE3kFQRwRbCRbNzegrlHNhKcTrvTeHFm1eeuS_YukrsNeost_X17r7tC8BaUO4tohgPOfg6L3SUomEfaQzAlAUuQdBJ6s_ZD3NYyQCJpeOcddZ8Vq8cFYtKH77Q-1TRQQTTPEqydvvSai3qgwWLXnTTnV0t11aNHHRDu7aEO3kGDdwrapGLTLClp8Tp0Lf7NbYg.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEnHXXb53E0h28ixM23DBELapMaZyW7inzN3sS4cDmAOA&oe=68353E75&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_recording_rwrist.zip",
+                "sha1sum": "2aa65677afc1db775029b03d1401023316f72581",
+                "file_size_bytes": 439247130,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8o28rubzdBETLeY6CdzbT0E1UQuBf3UJjGGW06hUb7hyFy7G-gCwpTzaMaA1a49dZ1Pl8LECwvvE0y8Lq4BFMNAI8r9trDZR0j8CHkHWdKxyw3pyuvJPInhKBaTuLVuymBFaEmc9zf2JR1ZD3ZY0epBJ4t60GSfhZ5u13pNJk8JsGW8QzVJD64C4XU0U63ayUxSf4QYMt9wA.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfF8lmqi1uibDAzfoDTyTYkhwBddhhDslL5xlco_a2rS3A&oe=68353733&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_recording_observer.zip",
+                "sha1sum": "2e6787654a9b12e3950718ce225988d18b840eb7",
+                "file_size_bytes": 613050043,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_jcRJPG3x6ZR6MGDXGJ5wgo4NYb8DbECFcJjtYW-uKwC5RmxZLKjqBq0Zul710rfcbLN-rKJ2IG_KBhDlQSugHUFm4eDeVsZ9h6bheRBGfMjeRQnRxXqhdVa8dVzDeYDGtXym3WdQuoAWWYTF5iEXYbuSyPBGmJCOOvEGUG9kNxGzZ5UD-9XfKcF1HFz9Rol-fFDmGjhaPw1GJ.zip/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfHSpXH88veLACdVqwGYWnRbjEu2xxzWn8kEYaEqq7uNJg&oe=68354AFD&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s1_bobby_griffith_act0_fzv3mk_LICENSE/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_LICENSE?_nc_gid&ccb=10-5&oh=00_AfFjgDCmeulFgtib7VVCtb-4Z4oszKpO4r2xTvJBXDp3CA&oe=68352C63&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_metadata.json",
+                "sha1sum": "82b3d10eee9450fc42d77ba7b926dd900f3fe2ae",
+                "file_size_bytes": 1381,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9XNoblaDksiJttF4lp4a5I1lyRjcE3jk_GCJD64w4eqyBWJh7vWTh5d4gQ8AWtbZ6YUdUwuOakEo6ZtcgeTkfa8exMwtMbmlf-sOoU8tVihrOfFps_2iaODFpjOgYrIs-_QM-l7cd2KsAwrkS8geA359XsboKnJThqAzYVEhIDOIkFj5fE9iI3jdSVG1dqgi_vNyc.json/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_metadata.json?_nc_gid&ccb=10-5&oh=00_AfEA3uR8g4EhFyUdrgrxLr6u3eXb-v6kGNaz1IYvYqN2Dw&oe=68352D01&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_narration_atomic_action.csv",
+                "sha1sum": "c4f951029e82b824aa8a16d5ee9c2b26dfaee501",
+                "file_size_bytes": 60526,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-bOajqSq-0ctZVtSKdPmYcXLTwvpBWRUtAxghijBq1ZTwHq9CVlcJIaH40SZ0UVvMqB1_K_o-jJMhO00VT3Q4FSY9BzZ8eFi6Vu4-a-lnUxDkcFpX2VmG8xev2nWbvrfA4DQvlgZ8a46qtsjrk7dUoobmwME8LQzbI3je5kE5wNKSrDQUuN2gK84ivJaweufPd9QXX0RmfZhTQ__E.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfFY1hJLaE9L4TOPCoWFxZR1uQ5N5KwQoLpknSLjMOudbA&oe=683543D4&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_narration_activity_summarization.csv",
+                "sha1sum": "710ed5c316c6c067514c3ba91a3489342b0a90bd",
+                "file_size_bytes": 5237,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_cigxicC5HUITzh9R1_sQBbuEVIFfVukzDvHBWjLFIKRLoyQmrpROYjAmgPt-jhDOAdOrRpoC9Afmkd3Awf4ZOZu0bFX-mN2PeF5jqoPtITIOQF8_XtdeeJCec08IK_5XoS1qE6pDvmYbVfRrBNlosz1Ks-Tvx1hgETD0i0mJqH-xeW0u9tFxUsrxKaIid6sIvT9EwrarhEd9sHmbSS2UfyyY.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfG-KOrV99XCKmyLZd92yef71MUhfs5LsjT1B7mWRWunBA&oe=6835607C&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_body_xdata.mvnx",
+                "sha1sum": "daea52692f06dff7ba9c271a23f816c0d154c6f2",
+                "file_size_bytes": 1801870650,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8MMUFoK7jDKoUT59lx3DaiELbJTuVUiGw2u24L2bpGk8QRorRsrSRO3GulS4JbAUr2NjLlHhYfRNAZPg7uqsLVsVHlelVQWivk9OWSONtBf5_nuhD8mrYeY0SIX3fDwquNvt5lhwVmJpYd6FDAjzTDRL4QA6IdiJzAY6l5zP_y5MYrM_SPGAxAYI06bDlcHEgcP8IPAE8T.mvnx/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfG_UtSGRn6quftt4a6MS98my27_DifQPBBvMCc4f2qIUA&oe=683563AB&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_narration_motion_narration.csv",
+                "sha1sum": "37e2718bd3e92e6cbf48e6038f90005ac978e081",
+                "file_size_bytes": 58841,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9Ns6g0g_u5rOCYfXjbWuEhWGK3NIpeHhTGof9IJJYyjs_uAcPaZ69eb9Wp9jPTmmwE3fG8zPoJkkigsU41RUdWQCz0q8Yoj4i0pdaWLVk3NAmtC15A9sh2g6KgaO9YpHI2evdjr0OX856AFGBJKy5sNDL03JIFnQyMDCyEwQSa7RTpQ4OYG5gfPzejl5rgi-ZJdCQEgdhTFdAbiaid.csv/Nymeria_v0.0_20230918_s1_bobby_griffith_act0_fzv3mk_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfFEucrrIInKqjIEU_C5VJJIyxuzJGkY4jxGyexkbNa9fA&oe=68356251&_nc_sid=111504"
+            }
+        },
+        "20230918_s0_kevin_shaw_act4_iwapf8": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_preview_rgb.mp4",
+                "sha1sum": "cb00b2083cb87317ac80f94e69f1184f21f0b4fa",
+                "file_size_bytes": 1215338212,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9f3LeZsOhO51246aFDia9U3qRE8XoahU1q-FIXQHn2kOsiXCZqMKp_jfds-IVycDComG9afOoFQ_BOB-YTzDhvPyh3S8Ne4zJv1xMVswipg3eqRC-6kdE6V0WxP4N6zQbMK-hymJQWRW033uD54GYpfZ9KMXNokuei79lGzfWgRrtjuKdAH045fZKgiMkXFK2F9HKC5w.mp4/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfHlgdGL3VqMqbHb9AhiTSZ1xjxv9a1jbdxugZuE_uMyHw&oe=68355123&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_body_motion.zip",
+                "sha1sum": "89946685e5cc0f4a8a88089bc07bbd8c57a2d8b2",
+                "file_size_bytes": 965312735,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-jeywAFetgQJoxpS1gTtZ_q5GfmGO-LVSFCeOULhSKQaB_JhNFdHMUXUooE4_XqDivtP7HOrt1YWuvKeDgv7xqI88lYYwyIZtHRVAOkuHmZc_-2MoIPvwQrAkUDF3k_Xu_pnjlCOl-rFsgM8Zme8kqMR3PNwmEK-2T80yQjtmG8cJjdQrf06o5UGD5qSny1WSTDaQ.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfH6UO6TgtdOo6EKFSnl78JU0cbTQIHQaCmByQK-V75pMg&oe=68354A4B&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_recording_head.zip",
+                "sha1sum": "bb312b9a8a9191d3e80bdbc6af197a68be39959b",
+                "file_size_bytes": 1325934293,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8oSRG7YNU8qG_81kZM5s4ixnsrXuRh06iRL7fo-O6dAjqE-1xjIGrgJSrMVi2QEoxO2mAi8I6F3c4TXqsewHlUUksEdLB3g7XKFgihmBAsY6xGTJlHXkU7CnedQfbg2mIkDUUZftmjsO0hpYpfISb-nSC6nWERQrjNWDo07cWhSeLRKnY_gs2Nv8Mp8JbuyBNRV5pt.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfGgrv_mN9Ro9_ziv6-hx7vKp4ZnXLlZrfuNhXKN3m4h1A&oe=6835404E&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_recording_lwrist.zip",
+                "sha1sum": "0bc4291a6fcb6273c19f425216ba520ad61c1d8d",
+                "file_size_bytes": 1062027638,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An910pqUEEvZqaA0mT6Me6Q2DUpYf04yYIQ66Pfosg7q3AqwVcBqpcjWdq7ImrlCJn5qm1taz_UPusje4ueAuDYSKlcVfplmxIr7C9cfsmvL5VRGuXoQ8LROijk0JiWOUI6PeiRcssDD1lR33CR8kelupkU0nEdN3ZK4_IGxzJbHyYRDOsuXb5pJEcYUQ71t29yoLlUrPA.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfGwAwCv2ZwkIsWKI4jrzKZY413Z-QbukaZMUYXi0X5qnw&oe=683559CF&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_recording_rwrist.zip",
+                "sha1sum": "fc3252950f4ce04741f4e6b2409123401e28d09b",
+                "file_size_bytes": 1150071248,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_DED8L7UmC9SHMpSOuXH24HAg-vfYICq09b7fTmOSl6mztBnno-070lT-XuH1QmfTm482CL27t16Ht6ML-xX_kpZeuCOipr6CI3BUAUf_P3rmmCpVk2chIjr4FAFyeEEEiEIZfRo5Lpnb-fRVbQmyVZ7xZQHwlf4RKOBRFIRNrVvf-H0lly45JdMVJ_JZ5GaYmGOAGeQ.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfGnGi-JFFlb5rGcQ9lR62LSatU5NKfFX6odlp3ksjebkQ&oe=68353776&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_recording_observer.zip",
+                "sha1sum": "ea1019ff85e47cb42ce1ef11926c14a0b63cf383",
+                "file_size_bytes": 1327298939,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8ypxNKOWkJSl0-7VbK7zAD-5HDtAQoWNJArvRrETNjQoUaWgYsk_vlqyY0Ioo7KESEYM6m2PCpps03BR4z4Rtsop9EWyYW0Z1JE7LDWyKn9K5XZPAG6_ipo5Unhwmj3nFHmfu14t8ykyjLOVloOqE_pN7DpacGbcovzWFGKU_qHqUKt3sr_YeCV5R3fOuNlHkH7WZB0uDL.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfGyp65osttg2HDZnJnsNnKLL3H5VS-c6RaVLF66jxQDqg&oe=68353D54&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s0_kevin_shaw_act4_iwapf8_LICENSE/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_LICENSE?_nc_gid&ccb=10-5&oh=00_AfEKSN1ASJX3WrNQ6GK8LSOTiMhML7k9uedvVMCZ72bQfA&oe=683550EA&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_metadata.json",
+                "sha1sum": "5f348c9109326f65ddc7516bcb26b456edbb01a0",
+                "file_size_bytes": 1352,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9PvqSowHAA8y84PU5aXUGjepPZaAnMP6AX_69CymonAlgVjL00mIiHg-isPyAk2Sl5euWYl0dbRMOxyaihhXxDdbhqCOYN17Ou0P7qzRq2QiZ9k3gGXg6amaBVADM4ih2Xqg8Bnbfz1HLeAZpgFzMkAy05JbLLjU592qwurX_05zkgJyntiJPJyIIwUfXWhlI.json/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_metadata.json?_nc_gid&ccb=10-5&oh=00_AfFhPsQDcfFBHnkREPQ9JzaZCZJGR0Aar4Ix-5qamsyohQ&oe=68354D2D&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_narration_atomic_action.csv",
+                "sha1sum": "6b8536c4ad04866d647bc71ab99c0c4ced2b8522",
+                "file_size_bytes": 42604,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8KXhO8vg4d14MXud4RJADEE-yo8uhXyXzu0YzwRlGVdb_oz_T9emC6cHLVqNqu14yR5u8FiFj231dS9cTh8NFsaEjcZ6sBPepodDfeRmyhfDBUhLig55noPo24bYPY-nDMjKQIqLiwi5VL4YGIpBqWKjY7_gd2md9Zn-tZ86Viqm7suB6j7o843SHZCTus6LNhJ5G8bZ9CF0Y.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfFMTbh1dvAox25L6jqkzpHsMSRjn2tiZwJmYC8FZap5NQ&oe=68355E09&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_narration_activity_summarization.csv",
+                "sha1sum": "fef9214081c5bda558a0ec31343652be070656db",
+                "file_size_bytes": 4771,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-zADaw0Q6JQnN14AkXxnTRqu1IVp7jI5s9S2LNz_qmQS1d3ogAFIKHuc1Z3nl5rYNeVi6eZpCcV_cx9Wjfj8InJHJsLqwFzQnvAmEpdAFl5kgg4UWCBKzu_99KvDpjiZufQUHMxTdCN-d3YufVEgUGRjKp-9Ebq2udVTteqeb8PT-GnhVn63uq7z1lXM0A_IlVqQtqPFO-UFwymhSCCN0.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfGDDztJJIune99kfQJN94PfrOXsprrKbIPLX99B4IqkMQ&oe=68355981&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_body_xdata.mvnx",
+                "sha1sum": "84a007a9038130ce0ac3ce7fb3614a71420d3e9c",
+                "file_size_bytes": 1839314559,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9tHxCP5tRbcXnNNp3R2A8uX6SHb-qxkNa5JixDbslWR0SDA30d0eUepSUW5S5y1BWioKe8a5AZVT1RoPMTJVCxNDAaN7a8DolGD4PhEQtBlERJGdW0hY7WZyUNXHPohRRt0_QruZMw7GfaGYFdUDE0wte97rDle4wiDfO3yIB-dfi3S3htN19BFXTvi64vU1tW8ruP.mvnx/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfHM62GE3ehdfwodImEN20mCN7YZlYqWGLzm4uIUmtrewQ&oe=68352C5D&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_narration_motion_narration.csv",
+                "sha1sum": "d60afee7120d0fc63ea134678afd39e515745c54",
+                "file_size_bytes": 101045,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_CgMVHZSVtGngXl6n3gt5nsJq9Tu9q9DXqLLJfs-UO16XoAJL-ycEv860_AYeEdGN_GGq5L6dvgYyMA-YMcHVCS-FbUhvqC9BCqpMuw2xAoRPaoOe5k43xtS67QPfLFhVK4KYFZsa1wL4tf07OyLArWa9yK31p43klczsaEITSeH0cWWSZT2DOpwABgOcYkQbVMfugpXfJmPhc.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act4_iwapf8_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfFt2ucLlOUVdPXoSdg54cNUXIPiV9ghofp3azbYGrgfhQ&oe=6835391C&_nc_sid=111504"
+            }
+        },
+        "20230918_s0_kevin_shaw_act3_sse885": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_preview_rgb.mp4",
+                "sha1sum": "fb665e85a3fc9caed044715e681196adc7c37983",
+                "file_size_bytes": 1031311767,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8Mrplcld6HoaK3F6Ew2vF9iAvjwRWKbw7wvEzxyZfaA01wgQ09hnlVNV3XiHbJUJTsNsEzxcjuGfYDElbYDRrY_B5xfAeWmiGPYV4KNEpw3wr9ZMsuXGwjcfD6IyRIbmFc1ZExyDCq8Z6-rHAhZBfXGuk4tolhl5xun6916kzaO6_1-EJVPi89tjGck5y6KF7EiDzZow.mp4/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfH7pWaZbimzMPUM38bqpdZvmXmoLQNA_xAyRCweiZx0eQ&oe=683550EC&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_body_motion.zip",
+                "sha1sum": "6bf930bd45c936712a60098489dbc13a8a61d061",
+                "file_size_bytes": 991726932,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_PRu48xRG835R1SVJe2m32dM0ub5ippKWn54gosYGdJNpiCg9LsFkksMCUQ3OsmL4hjh4L55pjNqH76wqrpiOB5jlQ4ZbHfeQ4xSispBlIvfsJWg3PeM_97n0ClL8x8lAmKETQhvm3Mkz54NA2Dat2wZMf4cbjcIhYbV4HT2tzfQiWaCIXfcoXDWeCl9SnG0FAwzI.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfF43D1Pu2ENUZiod_0rK8z4dQthsRMF5TcUw0koT9GE-Q&oe=68354199&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_recording_head.zip",
+                "sha1sum": "e98173b76444d2fa189e18f1cbdfac6a7cfd6621",
+                "file_size_bytes": 1072300592,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An90qtdMRaSq4QjFOKTOHkz65EJy-rO01EkfDLVxLBJbBKEJtcAPAG8VgpAqfi90aNFD_cHcfBqp-_jnYY016XUZruvf7emh1RgtMXoGfQFR_zdbDdLafsvUVK9fP7vJ8YdwDH8Rp7v7neD3Md8NaJ-0ElTjdlSLiypJ6tsxyRdY82XtlXUI46ubCaUlXwR4lYQoM7d1.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfHy-DK40RNsxtPUC6jekZSGln1G5PmOEwkbRr3JcY_aow&oe=68353EB0&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_recording_lwrist.zip",
+                "sha1sum": "08c50a5c2f1af803fd793eccf5def0b1c566c318",
+                "file_size_bytes": 822137486,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-1d36Z1F72H0hl4TWUK7cIUCfaYn62sKtWSuH8V9EQ3WlLmXj0lF-8Oedoz1nFhW875oIuxltFqJpX3beyrVci_R1X5FKTc-1XaKsBx77-pR3ta2e9hnsvG2icyS3fSWJ2t1lHf1FUKt3OJ1TW-oDqcJM67BxV0x2mT_pbslfXbOXE4emyV6GG8F5wSjXX2VqIpF1PwA.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFVjSs5c8PvGWXMjpTz0F7AhSRVyMIGqqDfE6HRUkKDOg&oe=683563EA&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_recording_rwrist.zip",
+                "sha1sum": "4a018992565b453d61668188591870780ac59731",
+                "file_size_bytes": 844110988,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_SMJLpuQmk65cY6h4dElDwxliF-_axKyo2okvH2dO1iaxelituWBihl_YejT1hNqlT4mxqcWvCWvmOkokpueFWMqkUVC4DcvVWFrdQcAg0pJLsdeH2ezINhSFwRi6aCUDeCJ766iUw_BMtsBOMbp-Ju9V3I_5Zuff7qrczcAnPnjzRMjpb0VZ3Jk5IT2tvh9VuWks9Mg.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFr0bu2YJw_fleQ3Mqrzu7FJJjKeb5qmrQz56PV13NMZQ&oe=6835336D&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_recording_observer.zip",
+                "sha1sum": "bfb2e6c692dbfc6c050cc53b7e44120eff56bf69",
+                "file_size_bytes": 1006607051,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_ZQtF_mAkC0q22tKwCeK2rXO_HezUyeYM3eyrqaxqMYZ_6G6ZJXzxel4srU0-GkkuiQWS97ngIglwtZ_JozsI1baldolUqzM8aidEZS-JBJY55w3a8180rF8GQrgT1KRlNGRX97dGS8a-PA0BupEi0B74acKLYdOPV5XjpEVNnH2QSxPMV7ngzNxK8ngCYO9JXKJ4hCR2n.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfGC-cTlXR_C6RpRgakithSTWuD0SBElEIJ4hgVCdZkgJw&oe=68355356&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s0_kevin_shaw_act3_sse885_LICENSE/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_LICENSE?_nc_gid&ccb=10-5&oh=00_AfEqqqt3B_ozt2WskVFM6RP9ZvQIoxZzf6LC0U4OQtuGkQ&oe=68355007&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_metadata.json",
+                "sha1sum": "27bb384390823fc4a67bd437959f77c7fc633d12",
+                "file_size_bytes": 1370,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_7JNbn2NKlKd37Lt7vZQelZS_qbhCcIEY-ccPoWhb7DiJs_K4EfXU223ccJX7YAhKqNbOF-Oa-xe24-dXENibf-nQMRbrVIChSnCWGS3TDPslpN0NwpgYOnKNzFHMv4P_HQsrKbDjWvUY4OrzsuuRXVpIXyuxWttbWRoA4MyzGtzIl-ZxyIJIcV1ncegYZZwU.json/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_metadata.json?_nc_gid&ccb=10-5&oh=00_AfEuxgQLQwB1knf3cQx7plMNgccqc3DzzCAt9TmJuY6dDg&oe=68356153&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_narration_atomic_action.csv",
+                "sha1sum": "38bb6956950fd5f6e7cec61918e62671233b3aa9",
+                "file_size_bytes": 58915,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-Wz3eSOwCDWZA4jMVOar0Vaztdt8J4KAKncX2qoPRFrgisquFE4gut47X1ec-OEeIoN_RMuyjM5x6_1SmOudmfnYEz362ceEoQ86hbhmOpMn8g5w78QP4rH24dMG6mZdOrStxKx7h7ilxJvlJWJSqU94Lo-oY5_pS0T5-iSLWrGlCCfp-uO81f55FxKIzg-rGO-4jrvQ-4qVI.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfGO0lOTaR-FKgzLNF4cXTr-ip9NaIvTrv4mEGvRqCZDFA&oe=683536D3&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_narration_activity_summarization.csv",
+                "sha1sum": "1c5c6a7e18c18580343239745d406b36f1f4b6f8",
+                "file_size_bytes": 3945,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An896lP5ZKj6RfnEdMaelrpuQSfo0DsG65keW6fuDZva36eWIiEfLQxyo67Cah0odvG3t4JTOImZ8c2sMcFTxCNJ4G-E2owKz_jTnNGTPXiYs_rYGZzkNyfn2CnFRNK_DH4Pbei3WO0DPS7yPVK8LaJK1MvwFX_-JRSfOAdgDzASe4bUEL7Y-O99lHy-Pafo6tfoUNYIUwt4gtkP3Zm8Z_k.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfFw5SdsR3D4CPOWcNI_hdYAqrd2oVbrXItvtN_TdRG5vw&oe=683561DE&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_body_xdata.mvnx",
+                "sha1sum": "f000b86c25853fca3db4ddee8dd15e03b6056c5f",
+                "file_size_bytes": 1842629400,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9YUXyfJSQ2o0lEWq78yOORIMg5NVF8XUoalVEFh7Ht50W4wWBRnkcOQ6F_AVzRw7uWqZ16oJP3t0kNNroMJOpnSBb9W2n03XUEUVkojWi_47TuBPHz6ygJ9DaGBkPW90ysJSF2kbDD2Fnf97NHRs_lKwPK_HDqbRMlFaDT6_kaidzGxA0s5Yd0p3gAU466SlTAc9FC.mvnx/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfFeByCAdrGXu5UbjgKRoD9PRAML0zcRo_nV6XXFPsyjTw&oe=683557D5&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_narration_motion_narration.csv",
+                "sha1sum": "e6f8f6eb484f379270b89ab429e60bf55f2e3a82",
+                "file_size_bytes": 23298,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-LhwViFrmX2xDHK4r2wC82Duby1DEkwLt5WjfDRIpaafmXsQct81_MgtxhXNIM1S7LMSFgRW7F6ibw5RPYWFTBBKxWHXheOhbYDeARko3s4ii3HqXLru8rI9VPMVv7xCnP3up7SD_QbgoAIfTDttEoYxInTDGP1ip3bmi0Uxim9JVIhNbK_tiPz4A7Tjv6p2HT18mcJnoxRAUM.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act3_sse885_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfEd2xWnyPcdeGU-sytOomE1MU_7SFqJBQpo2FF1zmOolw&oe=68353A35&_nc_sid=111504"
+            }
+        },
+        "20230918_s0_kevin_shaw_act2_5g4k0z": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_preview_rgb.mp4",
+                "sha1sum": "e80bc85f39ec92ae6515d586fc26f8fb9d774f59",
+                "file_size_bytes": 589607353,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_ANk-cpzewquvmYT-BE1gpYcev7Zsdnb5w7ShBWkkiMFdstFL8WasWnScRSnHMgGkyyd0fQNt8iRhxD9oASwm7QBAP2YYRGzsCW5i2lUYqcsHVUrTPW5VW6fEsLnXbPGdRbkahW3zCZf8c4EjzYnVRn1NFlPS6RXfjvzUG4nUuxfBAXJQ7Akh6x0GEM0YKABiFb-vRvw.mp4/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfFAfEYJH4v9vuRa3iWQ3pTgtO3XGUnOeG3RV8hFafAl1g&oe=683541C4&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_body_motion.zip",
+                "sha1sum": "e85ccc6656f484da2bddb2e0d8536c9c597c087d",
+                "file_size_bytes": 955342267,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9QlHhjdnz-BXuxq910Pjm9yYiTWWxsta0ktVbxAWQWDA2Z0M6Zzop2nMfPHofpsxOkN4XEdTT_OK_7wQ7_iJIs4Mqzr7Oz5DGvPqsbeR3F3t1N2jpcesukMkvfTRPU9kJg_krve88KbiJd62sLN3IP_32o9YIVi1f0-MXOkkFP3W7Qn_YwuRrpA26Wd_w-ObjsHIY.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfEeuInAy9XktPuOdVmxyiCv8OQneQ_I6QUD0FDlwLVKkg&oe=683559D2&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_recording_head.zip",
+                "sha1sum": "a963b8f7edf05255277f24f3bd4dfac12c7f423c",
+                "file_size_bytes": 549943122,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-CLBuFl5ubeRy-2YS6G59U5b8ql6lOF1GZShDsvMSFssH2yoTh97Piy-O6jnsCXl7dKz-KiItaueH739hO4m7tCxorj-0zzv5SIs87CXSbqPFC2jhTGEAKz8PvNMpx3LSvuz07d6pSKxUFiiwqeQ0eJUd-8Rqg3peZBqMufkPERcIV8TzGtB3FGUGWcnQ-drjVd3IO.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfFOGEvCwjX6-LAs_upOKqhr90Um7bR-SENwlBkYZTYBKQ&oe=68355CE9&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_recording_lwrist.zip",
+                "sha1sum": "c8053d958ec183c9f285641e06f9d95a014529d3",
+                "file_size_bytes": 244787548,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9ZzNUOTSpGwob0HuQ0Ftl6xMf8sUwnayHqfjTJglVS8KjL4sZr_u4eFfYAz2I536JKgJgzLuoPeyAcG7pxv71WKjrbyL1j0bbg0KegP0bWJDZEO1ZlSz7OP5MTrISJ_JagZZFYhnbt0U6oQUDn0cdvNxoe2LeL0PLo3l2r95T2C7_D4IXi08DogTd2HSEQZ7FnZJtqEg.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfExf0gi6Or6hU7sN0uLK5nrQF-fReLetf-g9DCjT3J5Mg&oe=68356454&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_recording_rwrist.zip",
+                "sha1sum": "5d0fefc45f2c7e65c268692cea50967e88de06df",
+                "file_size_bytes": 279661742,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-fDaiyALrxoA2tZUJx3QKdg7hGK6-pui5nsnpx_37hjB8P-FBEtQlKYvyOhA9f8NwtMfO4dFPWX6KpzFQZRwNBHkrMlqd8bRyq5OKIEFeHljCxqWo2HAioCeF9ZSFdd78aoAs4XdgbVcTr5af3soJ8oC12LTFkZVHL-575f8kDK53AvDSfUNx-eEhpSKzl8HNvR02XZg.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfGpJtwlB_BUYzCuqiIm_vIb8PYxq_Rguw_lwhM01HYCgA&oe=68356355&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_recording_observer.zip",
+                "sha1sum": "1a0fd16bfd62d6a4648e15ab5f38d8d8949e169c",
+                "file_size_bytes": 491566314,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9OlNJVTaJ52ycb7vA8aVzRF2q1oOPMq6LvAqqAp7U-rZG4eThiWxO3Z7wDc_AZunJAU5Ky9i9TrYySrybC6RGbMVS9kzqzIAHeHmDxx74vz4FND5ObGi7s8O52y2xz3fG627l-PIys8onEJuFftjVZcDBajkZfzU4cd7Nm6U7J7SDC8mzKGz0vANJZjdXdNFpDWfjyXZAY.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfFqsNfd_LTELA4d0MPT3T0SFQTU2zZj16jiuvhImRCecw&oe=68354DAF&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s0_kevin_shaw_act2_5g4k0z_LICENSE/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_LICENSE?_nc_gid&ccb=10-5&oh=00_AfFd0BXowOmeVGA5RQ_xb-L35PdJHuTR_JhZCSV-Mlujig&oe=68355E3B&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_metadata.json",
+                "sha1sum": "f5c69f721344d9cb51138b4677f0ecbbf1aba83f",
+                "file_size_bytes": 1370,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9dmoTO0cl6cdkMOSojXrT3wKH30KMv-wppqSHbe_7nnKp93W9iUwMvpxyZZH9tVcDmU76UTNMlrD6hT1kSj2E0zD0BUg4t0tvcQp0ApGEHRB_UUzs2jtm0CPde4q_EFJkgHtEt7npgbJ3eK7C647kwD7TkzcoWZZmQSmrTBh4C7a20wp2c0nwYtYcA2UbFyJE.json/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_metadata.json?_nc_gid&ccb=10-5&oh=00_AfE4JnWYaamQmx4QYV-LJUBCHeA2iKpzXvxs5-RN9CBxYQ&oe=68355DA2&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_narration_atomic_action.csv",
+                "sha1sum": "195e2806c061e1add7c3864d0215d0e3be0d7589",
+                "file_size_bytes": 58485,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9tahr59JOPkVWcpxkO2YVBB-Lx9Pkrtg_7MZ7OZ6xk5hNhoa1SbK-JpWmvO4qeXnVFsvB7LDcjbSyPkOGBAdwb1DmVnQ6skOxFKU5yng3Sdm5r2ylXAUldESkRthFgJeTpAyRZNYxsKt6p2NP6_MQ3jEtyXk2cxpfP_5OQQ_9vyxEg5u91VgrvmUM3LrcqoDzkFSQx8JhqNls.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfGVNXrDKsgOvCYs8LkIJXkTeSYY4dWoBEGLabcjmxlq4A&oe=68352D23&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_narration_activity_summarization.csv",
+                "sha1sum": "5318c832eac5cbdb26cb96c5d52ce62d2cec4ef9",
+                "file_size_bytes": 5837,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-6_Bp7dPcg0BrqYI2zZoY-A_G_WsN_2veoGrIwWsTOpIV92NZDbL8Pc7zXeRiwGk1XEqOm8H0YMBiaMsJIV5YQtgEU4wRBYtlRGCIQpfu_uYe2QllATWsxt7qilFzynRGJAfiCMXXGtBcUVfrY8XUPF4fJ150XHUXUFsxfUeQcPOXTvMbK6XhL9l4CJ3VeyR--Nf5nwTQdCIvnbSMfrVM.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfFK9Bs5tRP5ivGi432ABIgGV-mShiFmiwjN_XCJwQfXSA&oe=68355474&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_body_xdata.mvnx",
+                "sha1sum": "1d97376f493414c3ddfdb7d36527b71a9e3575db",
+                "file_size_bytes": 1848394607,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8ygUAol-x5rQ3hGuqstD8L5aaD7gMuto8M2pxfI5N-OgjCSMNSYCJ0nTXCkkB8nQEDhmmQwqpYWuaVrk9--Att4rfShEqkvOa-2GicCh7Zqadmdwk6cmWJB_X0EAM2qWnVr8icTU49-gmr0VLGN_3DnZOIp-vDeawCTtRGMBuiku9AfiuDBUZp614173kaj606z1sm.mvnx/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfHiWaPsl-j9DZrkGNFnrqDQ4ZRMtnLOyaQh1ZjpgYIsIw&oe=68355C3C&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_narration_motion_narration.csv",
+                "sha1sum": "7a4abc444eea7f22a3c90e3367a1cb022ced08cb",
+                "file_size_bytes": 16600,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9Rkd-DVCgM16wnqOGlsf58Nd2ieERJgf2-naMJ8w2gANp4TBgnOcTtTxOKNIkTKmWHo5ORs4_UWY5euWZ-tDeu_Wc0q3hsHgwJM6otNi5tcGNJ-89M52dDf_fXrZml5xa_k4HDKWMVAYemu3VwYc_pB32sOgDDWYxoDYKA5e7J8jAggHjOEfKf3kMFvm1RrT_aAQ7M_3dox-wM.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act2_5g4k0z_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfGZVzQJmzaqc99yg5tw9akym6OIT7KvyqX8dDgJ_agsAw&oe=683538A9&_nc_sid=111504"
+            }
+        },
+        "20230918_s0_kevin_shaw_act1_pnsfz9": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_preview_rgb.mp4",
+                "sha1sum": "e85e90c85dc3c9fb2af09d1d50b20a72e3aac178",
+                "file_size_bytes": 652634955,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_IOCJNfR7_xPv5WCtuwsUVRPhFTUp0MRbB1UKhBtn3sMmwOMHcWYjuXhtjyaVrTOekE3-4ZM5NtSk39eNPKDPPzsWkeUMqNxVhjwUrNp_vIJZlbrhxRfVsELOwHB8FVD3CLH_oq8XDQYO5PEGzoQNrGEqwyMUyJicEHem-MQYajSTfaI68LwEB4Ks6OJpw0mCFus2nsg.mp4/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfEC7QH6nHss7jXFnuDMe-5k7grrXc-ZYS3BqWtTZYnPig&oe=68353154&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_body_motion.zip",
+                "sha1sum": "40124ab26c181076313ab70be7cda89fe1aaf000",
+                "file_size_bytes": 965867324,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_u_xGsEjWTBP4sIAg7nwvNtV51SosCikQ4zsEd0IiR7rt94F8x7o7hXy4_7u7btCNYlvNbCaiPf-5D_vaA0hfp8g5CZ4t9w1dw_ptROZ1L2uWkdMUGrunytI1Svbd6znvC41rf1XopvSgYlgMFjSHQkK2eDmuMd11dXZCyXa71rtT4FCG03W-jC2iX2VdBng0sZZw.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfGIIfohkbVhyRHbloYX7H0L3eqc9bNil0-sjLpNcs7Q5A&oe=68355AA3&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_recording_head.zip",
+                "sha1sum": "975c40e153999c5c0fb6a28767c9c12badde81da",
+                "file_size_bytes": 762128687,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8n5Lps9p9ndqdxQMQCr5R0SqxZulliJJ2WdRTnwoPadei1SqzYOhf-AROBkylwMx-4mFwAoxxzXs_O47yCsLSdnKtj9J4BF2mMbXxXCOBYJr1_znwCjfnUV0Q2ZaFycD0Tcz-pQ170ua4dtjtjYHUgtoGIHD77qTubzcqtfKqC0tSgf4vqwfEk4NIQInO8f0FhNsXJ.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfE53vGGWCqW5qRYp4q2nMcGlEp-shBGCvq4haaN11OEEQ&oe=683530D7&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_recording_lwrist.zip",
+                "sha1sum": "072018903c2f95552dc3476f2fad6a86e0fc06ec",
+                "file_size_bytes": 497880544,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8fw4zsa8xM6V0TroMzf61AK-EvAFOrWvKT73XoW2MKMtMN8ywYVDvEiDKMLMuz2GwEkN1dJkif5yMTtRJCfPMETcwheg7XxZunqFkClviFHVvqqxrnStsJsx0QtAhsvaj1_vfyjOZSZNhGrT3gf_KfyY8dFkaHFh3Eniq7Mz4_Z7IKoOwmnBERqU6JXKxgVA7q7hy5Dw.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEuqagerwbl_7OfG_d9yM1NCZlGln_McE43PEPmEf0AoQ&oe=68353445&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_recording_rwrist.zip",
+                "sha1sum": "e60ee7cacf92f7abe0cf5f2254a435160fa33017",
+                "file_size_bytes": 476790324,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9hyvfEQ5Am9jv_AksM2Ge4ZgLw5nfMPBQQFODc77m1yz-_F0atzBTqGdBGTcns9LgVakZPhCcGdgSMObxiJ06CVOWApkBkj-gqu4ml1JvmcXE5ba3HTfrGsiX-vYEbY2-iedb28svtwn8XgdbtThFp8xJyrjjyeHEGLRmB50TabmxWgHufB6bXYLiqCCIFCC4ZlS4BpA.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFrJCtfXrarZGjL01J5aAdcnLBcvOFsOf2V_vc73R5Nzg&oe=68354776&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_recording_observer.zip",
+                "sha1sum": "64ae80ec733bf9d413173af7a34754d5befb384d",
+                "file_size_bytes": 682325620,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8y4R_N5BWjcGD6ngCKoy13HR0iYIR4mqRTSf0NUY14bz7Nwl3flByJhdOQFfBZ_4OS78mIx6wNRxcmq_iVV3sAQ5bIFxfApM_17XR_t0r8_zbBrfO3QJf5xpp3LFELgfHjgSvJ9tkZY4mZuYxLWTsa_uxheM19sW2s6BdQZTHqUxF8s0T3F1gSS3HeCVn5r2r_15PX7Mg2.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfFwNTpAyuQcAigrPzmJKq0GNxJWzPQLJulHYgRZg-E2Vw&oe=683558C7&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s0_kevin_shaw_act1_pnsfz9_LICENSE/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_LICENSE?_nc_gid&ccb=10-5&oh=00_AfE9FiwYEq0attS_V1v8zEg1xiYwpyCIU-TYGySMpULv6A&oe=68353F55&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_metadata.json",
+                "sha1sum": "2f568d54545625dd7426241f273005789ff052b6",
+                "file_size_bytes": 1363,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-rtpRR_Zbc5YoHXOBZN5Msvir2Fyk3YuexRXthBfqBlMpO72MccnlXNm0oLQByLBF7-g9lelh3hVGT_tVBS-69oKxmPOfU6gtf58LyEGVCeNEF1y723WMS2PljoQbdoAe8VHryw0WJfl5YjiQOwBhVxKrkFXocEuGn3iMY3dxuRynxq2PFql5eAWxEAfr091w.json/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_metadata.json?_nc_gid&ccb=10-5&oh=00_AfFadSwGFaZRmcTKxoqvo0_OTbQmBNHGFbtgWYZ8pBYRbA&oe=68352CA9&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_narration_atomic_action.csv",
+                "sha1sum": "2bc603e09a3b37f4caf933cc7c54e6f352e0ab49",
+                "file_size_bytes": 60129,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-caNI8reOqo9JY3Qm6rTwWWgHmVX6xD_85y-UppGyvyYgk4noNiNEw22BgKWuIrUyd590PUxg1uAtAthv2_FSa1TmBczaDEHY4hYAjU4Zy8umu9sl-dnhQhvoFMn12mFnshmJzg7kbZFZZ7OOaJTj3QXujOB1Qjixjgj0jmZYF-CgflkoV_Eb7BRL0gfFwn6_jBnXTyCTpPfY.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfF6yufYy48MywaKUJwLzbzwXsdnYhR5iJZUN1L-ccLsKw&oe=68354B49&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_narration_activity_summarization.csv",
+                "sha1sum": "7001aa935375fd497347ed1b76983d56fb30a427",
+                "file_size_bytes": 3942,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_aFsTTMQlqdBXbGU1bmFXb2-q8tpFvJsQf64U4893yQ4ikcRF2-eHDNHKDSEYhnLFzK6OrkpRLLsYPZiHKhooXtCzda6FByQ7KwK4ZpPp5d9302w96AI0KadlW_LA_ixV4xeQ-7I4PqM9l-uKjt_BBVQJC4F8BMSflFTZynD-ZX4E9oqpALSGkxUKbqi2Us48eXLaiDlUqv4xpKHA2Sp4.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfEp8J1qwOMz43_23Leykc5TcdXHSDsVaFxZ7LnIKtlGKQ&oe=68354B40&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_body_xdata.mvnx",
+                "sha1sum": "69f0b776cf0d74aa9e21f6596636721b3c7382f0",
+                "file_size_bytes": 1824966903,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-M19PPdX9xRiTSSzKu-iX_b614LirsCc4PMys5s8dtBvLwIuTiGVTPs4TpnVg_Qbks_rC7jf1Hz4CaUNum4NicDgUUrrIF7l08F5Zjdoif6tnpG03U3hpV3rKlDtlsezSrgzlp4SlK2LdanIgK-rZE1s2qfkvK9vb17mIh80g6vhOOhoLU8qW2k19a4U1lEjaPsdbY.mvnx/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfFHvw2Cj-_-QiZSv7UfuQJMHPHU10rO9XawQNT5V1J7hQ&oe=683545FF&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_narration_motion_narration.csv",
+                "sha1sum": "d9d0ac066fc700ddf7ea2562f67338b4af173231",
+                "file_size_bytes": 33937,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_y3lr-_gjvOas9mRik5_q67E1UR_QZ1_l6NGQtBcLyAtdr6gCXG1LpjEQEXHm_h8E3wNmA2wfLgO3HqDi1kbMWY8SQJxwWbl7mBjzh_vRJP03czlJI17BZDRdJhy0fyaBfByoo6nCEa8QEM2_cMhJerz1SO1YINqkFOzwV08r6X5zIIB17gMsL4jsAo7Wm_yTK2QddbYOWzCx1.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act1_pnsfz9_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfFoiXhzTqmdyfYmMY9GIgQAt68CbINLkNQvCclIQWUyTg&oe=683560B4&_nc_sid=111504"
+            }
+        },
+        "20230918_s0_kevin_shaw_act0_a64she": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_preview_rgb.mp4",
+                "sha1sum": "37b242098c633a3e1fbfad7e22d7c6bd54eeb4e8",
+                "file_size_bytes": 625099973,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-zZlg79Qs8MPM0Jj7l1NQs3vqFv6F1NHfwm0YJ9dnaZOUIeeYrellnpk8opphToh_BjAwK4PftHxYNXU5dFVro_OHFmBx09uHJG6wBQqO_njG6kuRDgG5C7CmmqxO2zhH0WzXlZ8tAiN8hnk8j6HB3tYIQtoA_YMOMG9ycnNAoXqXS17O_Zu-JcSI2UPklR34GQek5.mp4/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfHE1atSqt7uufCakJ6Y0zrEdEKoccKiw7G5N4ouzfh-rg&oe=68352F6A&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_body_motion.zip",
+                "sha1sum": "864707b217bd0f285ac1f588b09464c250f61c11",
+                "file_size_bytes": 909376479,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-2meM1KJHkAbLTBqJsBa5H6Qzg92IcLuGynq3GLA6GjJmOMQHkOByRVbayN084qR9krgMLwGhVTyhduvvravL5Cp_Zg-qHGbt6yFTA_xjYx-5V_h23jOL6IlZTBqSgi7DIWO_QrAcKqTR1pHoHzXLNd80BIkKzMIouUex_DR_OM0pZ1yzTT8mJ6M7lz4--CJC_Bw.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfGzsx9x3XcrCSIyKZh1c7Z7JrjRkAYG7VWfAvibvkpGiw&oe=683563A4&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_recording_head.zip",
+                "sha1sum": "dcaf063aa919344ae05d3c506716124a4627c65e",
+                "file_size_bytes": 780579765,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9d2nzFzOa7YUxvytxtQpkxSnxBeQNszJYpJ2Bo3KjK-xe92tH5dD1evLOU92GRTDrqXNdransdFhWSrLtC9vDDYuLEIxtPL52a-5gQC8lu23tt80RLL0PWVpzBaSyyRozZRa5hEtOpDZjAcRuRUI-pkg9RKFLqAqmBEf_70oNBOijDzinmF-A6TUe9GXSgxKJtpg.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfHifS89TplWn_AXzDd5zj0NVhYSKUOZwYmn42gHm3QU7A&oe=68355938&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_recording_lwrist.zip",
+                "sha1sum": "5bf0a50f3df929a44abbb321cb610ed89ba96355",
+                "file_size_bytes": 336776554,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_wlv-F5GW21iedvyRW5kxqxQ0C_tyoyhB2fhLvA6y0ysviOGfwDohJL_4qe28seQ1x_Uc5pZCjwECg1r_4kictB7rgwA9mzphYDMjHD_qC83vaG2OIn_npH39mbHpPB5hx4Gd2YElV9luqzD1BmxeTfEZtTsUMG0uM38mtZmVmMVQqgk9qs9nyfD_QGJmFTxgIVVg.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEzNfiwX4kTnBES6qX9TIbkUbq1JF4tai360Y3GPtwhUw&oe=68352F07&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_recording_rwrist.zip",
+                "sha1sum": "fcd5e2ac86199ed522768113915decda0026e508",
+                "file_size_bytes": 391800749,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8BUqeNSayGLbVyuaGDqbGm3yT1fl0ICjFDfTUu-PEA7_p43ScMu6aH-DiOs6vnU3Kif_oXZ3lrly8mOByMXikZvuv-4eyeGrR3iNZV6yf3TZ16mMm8Xwdd7DLbReM4fYheuVt8uR6T2BIaaIpjn6YcAVFUeMIi3YNJcUwoP6WF99c87Z5hjynS-yDuToxIIb7c9h8.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHqFZg98qd-jfv3HOQeYfO41og1joX0FyNjt5af7V1bzQ&oe=6835601F&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_recording_observer.zip",
+                "sha1sum": "62d936eb03acff12defe77052a3ead69e6a8229d",
+                "file_size_bytes": 735123312,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8JilINsgiYlu7721_dKbSicAeaKTJXzBuEhtgQB_NtRmZuqcXtSaTfhupX4Fkf4S95bghF-B7uhMrx9bZ1i_u4BGPlMr5RMCUxph_6N_0YtxpovHuRwbGwRaodUPeHt-HY7r7A4KzYIrRFwfwzIzQ-AwUogi6pbvCvWmLmzTh594aa3jaFHoB9vdCvHyZ0LNtfAAod1Q.zip/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfGpf8SRDhcxX2PUIBsqxhntoLtqd3wI1D5Gw8oniLF70A&oe=68355B12&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230918_s0_kevin_shaw_act0_a64she_LICENSE/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_LICENSE?_nc_gid&ccb=10-5&oh=00_AfFQo9IpMeB87zBWc54WqeVFS9FYo4yvHevqgGH9YGZKag&oe=68353DC0&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_metadata.json",
+                "sha1sum": "c871d666891358ede59678b90fc7e84c5437d4d0",
+                "file_size_bytes": 1369,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8qw0cSnY-v2dwTX8t0A0nypQ_k_aBAaKYwsi0AtB7AEIX6TY-E5pk3e8ik4PDf3m8gRqdVURgmsVsGJXd9wn1CPW-ORqi9SGFMGyMVNxQBAM5AE7ZpHwWYGT2MyABeVKqMQ0BistQY9tj6YWVgQBnAjVZfdrmz4qx2m-H2zRtuGiFOtt78mAMbNpCSHtRaMw.json/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_metadata.json?_nc_gid&ccb=10-5&oh=00_AfHfpbpAJ1cnxYTx-UCXzRUl1YU2L8rV91UpCla2f9kooQ&oe=6835502C&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_narration_atomic_action.csv",
+                "sha1sum": "b2ce1d4e06466d2596cdc91fe867ce560430d702",
+                "file_size_bytes": 63387,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9DhjgeVHp0apb54hukjQpz4ULqGfXFttDCojT3TMD5sNZPGxcHeFBfhnk0olDSUVzEjjMjveUXrArMBLUCGbEXAkgX0eda7uzOZlviMCljGL4rwV-cVSUzqacfqU8T7l-51IsYpyvCyOcqzyyM-JoyuKA_zJrPSa6TtekD70Vw__FPC1HA3OrN6tsPzcmxlitT8iaZUBYUsQ.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfFRwquc0xX_HTMtw2oYFTsBfaaamZe3lXn06Tgtw5Aadw&oe=6835639B&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_narration_activity_summarization.csv",
+                "sha1sum": "66435fc431b2c3d26d738de06937f992c004238b",
+                "file_size_bytes": 5276,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-AStM0OGU05iDQRuo9NdcdCZvw466PKZ4x07UOQbnJNZ5cmm0tkIr_afsJw62HyR_0VygRYY0tcAankvQ5dRwquVwMNNrjX35zhhp8MOQdH2WjlLyAHvI_Aw-p-rqRq2Lhv4ihOulmsLEviMc73Fkzqk4uW_e0EQLClTJzc_hy5oCkMrwo_BtltYdQBe7c1kXDIVMEw8CwIZw6xXUMEA.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfE2j5txv-RekmhB2eRj-GGVQHJwWbxOk1fJJrTKKPyLvA&oe=6835626E&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_body_xdata.mvnx",
+                "sha1sum": "e8ef3809b39f9894a576f36e65009282a5b51e7a",
+                "file_size_bytes": 1841301686,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9Ffe7w93vH5aYpGh-swzXlMJcLULoEBDSlb1CY_kizf_ECyssus26g24iCnTBatyPs5Y8VoSw96FY2ptKxo3Q9MXN8A7MJq1zwtxVS6qYxBSHgGR7-oTzrnyhdykv-6g_jlTEiBSH1jA7so2YJsPrgfEIO1XQVWtlnv-oYnRFixkgdVWTO9q3lGGhQicExhGvOmWA.mvnx/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfFwBKfaajAy7_xjk-IYLx53Sdvazil2o513CKsYem3sbQ&oe=68352DCD&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_narration_motion_narration.csv",
+                "sha1sum": "cdbef7b7eafbec8cf086762b2bb6f8f4d2c148ff",
+                "file_size_bytes": 65281,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_mE8Acfv-C2yi3SeUjbYHCe3JNkrbKl3rlUZ31SXx1_gZphF-BzVBq0DXeORC8uOHk2k4GzgmFqra3b-l6o-Zylw7ECCbNojNVoUH75wPvqeKh_iNuYWAMlY8wDFd0UEIIHTn1Hamt1oULsQ2h1zvFNpC7SkHl0W-DKrfH9HoDmrxDHKFD0lxpBTqUoRC-Yp6y94tAoXxtZRU.csv/Nymeria_v0.0_20230918_s0_kevin_shaw_act0_a64she_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfEtuhj7Oc-4Sni9bz7QNtoqueUNRGCV458jRW2t-UyR-g&oe=68353428&_nc_sid=111504"
+            }
+        },
+        "20230914_s0_tamara_gibbs_act2_2kx50n": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_preview_rgb.mp4",
+                "sha1sum": "6fc665f8dfbc899f3f491830f493e20b5f85cc2a",
+                "file_size_bytes": 568459020,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9-5ybGU0sNyfO-MjyF2jD3mtUkyvn0alkk8_3pYA4SpJQhyNu36syYv8LrkysAivFzdGLY2NwddmMGzc7mqYnU69TA46IrzHDf90OzCa2oS5SSAXkioBPF3Mn5VnCKf45ntt1Ct7x9nhCnU7E7GFqCtahTQk1BxnWnBZO0YIPwQ9qRaOe02fKJsnb0inbSWBiuXgffUQ.mp4/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfEzmimpxu4v-mi6DTn90TQyNIx6c705E7gIsUTNy9wCnQ&oe=68355B48&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_body_motion.zip",
+                "sha1sum": "82fbcbe472fb9d18bfd1db0086524fb433ee8834",
+                "file_size_bytes": 955104115,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8YSTRxoBnJ8KBuSfULgFIQK6P5rfMDC4LKEllGDyC8LWSUEOdOwi18rdOtvH0JBFynh8pe5Nt1w4Wa2QYptmvzhQOmKLBzSGYYCMnrrnysDhO4VwYVxauL5Tqx0eNFF23p8-hzb4OGV_NRMsBnpe5l8VNhSz8yf_e8kf96UekE_uW0eKkED6p1OXrwEDGA8_XnbaA.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfHeucuovH7paswqpxNU3FEXD0BvV_9BaAzfabD48OiUaQ&oe=683536ED&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_recording_head.zip",
+                "sha1sum": "2545e0d00292a05b7ab612f9849f8971a3c658d1",
+                "file_size_bytes": 460330868,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-UIcGI2jyd16GCyO_MA4304HwXewK6TjWY_8w-NyarCOij2kai8-ueGq9GQXPSGOreLt6ou7HPcOan_3ryDGLqjBt4gYRbeEmMN0vSP5zkX-A6tt_ASFKeDnE0atFzKlIfAmzVlhQOOYBy0mnPS4FYYdt5as1npGm1s5Plft3JfHKPjuabmbqZAOuKJUyrq1eDnQrE.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfEskjnhUSO7rxf4A6TX44JhaaR-ohOwlZSHrAfz80eQHw&oe=6835304A&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_recording_lwrist.zip",
+                "sha1sum": "676ab278284f5976b4eb6196662ab09523baaf16",
+                "file_size_bytes": 275918771,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An801639WsISXAk5uczERAkDvijm4WKDxvQy-MFTAmNC2pRDDn8auFvV7dpoXHfH1veKIEhk0QWKDKF4A9aXZcoIQYF7Yu6zZarj9vVRJqKQK1Nj4k9II-EuXyjGNstoYsDPRJc5LOkDFTSjkSYAes3B2yhRX79QadIWiUp3mX6C6DyR0d2G-rpr2G-3lj8TM28bGQ6I7w.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFHuOxQ46fApZy6SVCL2T_0AB9qV2RST-RNuYcdw9D9Og&oe=68354FF8&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_recording_rwrist.zip",
+                "sha1sum": "5ab3d2a4ee2327c1be3479409c205faf366a2bd9",
+                "file_size_bytes": 238403587,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9LldV2-PTS3HUuia-qCT7KrOZ8mvgbMqh1VNpDcs4dGW-oo9XpC7b2GB036llwV4t45zsE855smaaluARp8GWLXzvPGsvF5HMkxr8HSyu2lHI-oJgAoMstWuepIgtqcIM0Ia4Kdx7md5uHsLTxhBT0y0IVXhfINkfdtJDoNaBdoXKBNw85xVTRpW7Nr8_NSvrgKFd1bw.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEN0vAmtMxajBhPaZ5XNV87rtg0mZuccr2TxpoBzg1jTA&oe=68354E0F&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_recording_observer.zip",
+                "sha1sum": "8edc80f75d2a1c54a97efc37d00558ccef72f009",
+                "file_size_bytes": 441278286,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8SJZzqa5zHISsHAmhsCq3_xvLfNFVgYmQRRPEgBNpud_17XjWt-5CWxMp2eGfuj2slM7_bgHJH6CbR2aV8ySOfuoHha8pdJ69vARBclZM11ewFNP6naEoRMEDJEtUbmPDpVIR7CQyfu2KmAGY0ar22RlDhASpUUeRs9X95-OxzI_Cz9wOv4HSp1WQIQPnaFSh4yeWP77Fl.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfFz8LOnuLILyopXKAEr2E6EewVGe3meUNOHmG2_Cjv9IA&oe=68353CCC&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230914_s0_tamara_gibbs_act2_2kx50n_LICENSE/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_LICENSE?_nc_gid&ccb=10-5&oh=00_AfF4eo_vdsz1Mddmer4mlq3x5ia1VXurPzl1Hqq8oS0jtw&oe=68355F37&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_metadata.json",
+                "sha1sum": "028679782f7bb05932657df911fe3fbc9878b4ab",
+                "file_size_bytes": 1373,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9k3qjKOCRjOwPHQPBdiVUoeRejQyZmyO7WTakJLBAydmd8AHzj017QLItFAIxvXYzOb1HdQu_fuDLc_yAuSPjauyuKudPjS-gmI9Y08leU1mcCozBRo_AzUxMQGiNFP7V4KxC_zWfv-MtzKrAKRwAYbN5PsiBmq9Qr26ge5ht7Z30Q5-J0BVvciKPKs9WBnpA.json/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_metadata.json?_nc_gid&ccb=10-5&oh=00_AfG4ejieeLfrjw9mmcN4pNUwCTaXcvK1RixBo83p4FwNng&oe=68354DAF&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_narration_atomic_action.csv",
+                "sha1sum": "0222ac68349b476b2e147c52311cb3b99d20e466",
+                "file_size_bytes": 55099,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8F3HWo_BRuWuO72DUkehfSlSAizKHWmsfTt3qv75lgFIavPkOdEIRe2k1vIbL8KG5Kq4vh8__zzHQ4MRU16fRBsZIf2vPQRvru2nd10iDDNQC-hzdIevRgwjwPP-u2P_p_h_H2S_EdI3H1ra8X34pLMDaE-UvlGxuxYUHQj84AoIlxmn3PEiFlCFx0tftiSOSW8elwjto5oZU.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfHFe5sz9PAFhzFSEhjdicdIICfm_uiCYt7zmN8bO5XWdg&oe=68353229&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_narration_activity_summarization.csv",
+                "sha1sum": "ee893033dddad74e2ea10e33a785eb901990fab8",
+                "file_size_bytes": 6202,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-5h9_7nzAduBihRYAkwzJbUoj8DK8HbQh6x9X2YrAURlJandPpowgnZCs_OMrJlN2PEANUXtyO_6IhK7sN13fvwcZrMgKsGy59Y7KBzTVxGJ1_RqEfud8YGcfttgLNQDbzn8A3nO31iTDYexNb4k1rjrE64t65rVxl93mFkldK31ddzGR2v7-ojv-Ko4PhjtNNOcXVGkhJ2gZrb8BoL7s.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfELV3M25yds40AdvvL47fmmaBYBmYc_DUcNGj0zSSN1NA&oe=68355F2A&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_body_xdata.mvnx",
+                "sha1sum": "71f376d2623dcd70d86bc8aff3c03e92c4016820",
+                "file_size_bytes": 1821731978,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-jFYMFruWHcRkRrRBZBhEWWdBm9xxP74Reonc672XYrHGgTbPbvK8DrQ0dwqaVCo_uIrjpifhpGPuX-GaQ1YeaBBFa5ntIMNjXsMjW7S0bzlkjg5VTCfbO5XT4pfws1dM_aPvFjvg1YsyPnFXgmPBx0FQBduuE-BO968Dlrx6t4RBfECku44gdBn2ARsADt-IJ3k4m.mvnx/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfFNKndr0j-hu0APDyAWFAF3tW4_v0g8GzjorheHV6eCtA&oe=68353413&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_narration_motion_narration.csv",
+                "sha1sum": "340d4df08e083f987d521a60b9aebb3ad78654a1",
+                "file_size_bytes": 90965,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An809bcwUWIYIE8Gwujk9GCQvyn2HZaz_ZtrNIDvyNf1wNiJ7zup8qFSHSc_CPUBK0DlbO9xwq16aWw_n7qPQpZCmVu5fvALkrSUvnVxOVwX94qz-5ngLLJ9gPWO9cAmS37dAyG10mVUVHq2cL6bXTuQaMZsfAQJGUCQ-rWKLQNLxjNeMBBkROpoxeJUSbVgz-nyAW0S0uKdpPqM.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act2_2kx50n_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfGTbxNhxZebAfANOiGuuxynns9iCQjSMU7audf1V2TtEg&oe=68354FDA&_nc_sid=111504"
+            }
+        },
+        "20230914_s0_tamara_gibbs_act1_m1pdze": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_preview_rgb.mp4",
+                "sha1sum": "e8cdebd8c307db3c2dea50675f5e77478b51d6bd",
+                "file_size_bytes": 598082152,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_dwOZIGbvEeKO99-5k7zZJ_CYsKgvtpEeTnsLp1avj4Aw8YcEJbZ-5yUdXsR23WyPlkD0Ppj01UHlx-CXkfiywZkhnqyxLbp0W26I9GSQXOGgQvNXZ9U4JE099nfl9NY92j_j2vHxzPcgHeMCefnMF4gdHxaW9Ea0HlpjPIi1z1SBIBgQCxeWypA2ksk84wRs1lC_E2w.mp4/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfFRRFvjl1XBNsjP-MpODRctrDRG03W531ibsGB_JNp0CQ&oe=68354C3A&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_body_motion.zip",
+                "sha1sum": "e79cc2fdd89ea2eba019d2530e85ce18313a7403",
+                "file_size_bytes": 925072642,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-5neZjlK1FBPbijlg71velzALjzyscoy6YY5WIraO1XNpsBHc_IqnWdtuoIVO8kbmkLdjoM6FdJM6KRRywidQENm15glGB_3J3ZS0KjzRRHQXDusPw7i8b_cvFBq_srmWD1SIbnXJ3eRiQUicTeQchG-mI3FBcc6L4jzNBOoHLp9wqmyV4fpcanRZ9YRraR-_600I.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfH8PmGIk6KT6uG60U16XBkrTcHmZ3u4abEB0PdK_wagtg&oe=68352E8C&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_recording_head.zip",
+                "sha1sum": "2e18131ab1ac74979f0da4f7c2dc08f7465508e5",
+                "file_size_bytes": 661926611,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_hxdf4dsHj0wc6l9q4VQo1UJ97qF3qhT1NYCdsoh8Lz0CEmwN3AD4PpOB0uSqzOWKlnc0DBTIf-HiZhFpEDr-hnd_498GGhcnuemcXAtsKyTNbCyCLaT6ZH5xDCzVUUl9yJF9P6JMahLSZC8muLlf5-NMuZJHHXyEsctqW8Ze37Msh-H-jEq30bYd6ZMDx8NTVKzip.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfEGP8eE2dF61L2CKaZ1pEc3XMOUSXNj6WvsXFQ8-2bLYg&oe=683550AF&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_recording_lwrist.zip",
+                "sha1sum": "831ef5a0b63730e935d7947b1ad2514df963faec",
+                "file_size_bytes": 425045801,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-jdIcC8e99habH9gpELA6PZtpuBPW_fU5aFMnmBlJtG6mI1TkNM6ebKCWuLomEU0GJPFx29NlaZvAeTVC-PDcohS5-1mvANHTKLqPvsYDhi0vRQcNGOC_zq34EHOva42oBDpoU6zcUQlSnkD2xCW1qfK2gibvOlnHYLSrzaZZYVawOiIxp4VMEXyW9qLt4CGh3Sz5fuA.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfGN3xV178PhiLdtzQoZT5gGdv-1eiFxJ-N-eXGW7Gpp8Q&oe=68353B90&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_recording_rwrist.zip",
+                "sha1sum": "3c70af8f318d930056404fe96e1fcbf0cc313c69",
+                "file_size_bytes": 392491677,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_Oh-vhMKtXde7wmoRePRMajpXslMIMM-8usH5T2d1d7ICJpm6aO8SwOZjqopRKbKqyl7ye5vl9hVe_sqU3vHw6zDu9DY31NwD6wiHmqYrHcacHQCdGfUBMIJXbfhyHjO2T8JnM44IhED4Mbt7Mp8LThEVLYBTwfLewQts-Nx6EacgAdH0Wx14fx6Fj3caX0NvcMr35oA.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfGo8R-iH1iwBREyymaxQZTGsPBYanIBAGrAVC10qsS1Aw&oe=6835562E&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_recording_observer.zip",
+                "sha1sum": "ea9932f14e1b296cffa34fdbe3a0ed964533fbf2",
+                "file_size_bytes": 650625532,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An87cb-gYNiLHC3_CsfNJdeyISUc28ONlWKyVqWDmVhGlTWSfhe2tNgCnoFikUaj7Qhl2kO52NwDDkjGh2o1xtMWgtrfhZKa0bwqJXVonXV8k37UphL--0Q3CG1q_A50tKl0RDhmU64TVNvtJ-BZIRcc-TmcV7JlqFZ7ZFYKNstycaT5qi2qAi0GD-Ii3yGoAMCOf65kSJrU.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfE80pgffhFRfjdXYEH1vkUvuy_c2u1CmI6vIbxHBfJeZQ&oe=6835449F&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230914_s0_tamara_gibbs_act1_m1pdze_LICENSE/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_LICENSE?_nc_gid&ccb=10-5&oh=00_AfFg0Vun1kSeDkNcK4nslwkt6z5N5nNnAWIMDVbpOKmwew&oe=68355F9A&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_metadata.json",
+                "sha1sum": "2f4ecf5750c9785416dd0a13cf46ac2f4e345c08",
+                "file_size_bytes": 1376,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-RVWg_xPKYPyUkLFtt5tfk32ACIMUDKc333Ar1iVyewxsaVx9PdBL5zzyiQZCeFLmgbqSZBd1XvWzyZiKLNFKHku9aardcriSv8g7mg18OdI2S3W4M4t2YR41OL0Ecsj0O82jIyo3pTynDJC_7HT9_LjzVBA6CgdZfUkpW4AZtLBOQcojLrqo3PgktYzDcYQ.json/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_metadata.json?_nc_gid&ccb=10-5&oh=00_AfHtBsnx5t-UcAmRFaUVHElGmJeRGFgGbO4XLGb20mUPSw&oe=683559E1&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_narration_atomic_action.csv",
+                "sha1sum": "3f1e080a41a0b38c9ffc9650cd4f1fef0fe305dc",
+                "file_size_bytes": 57880,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8gwihWezV5BdYzZkZBTFiQdU1qMkQMs56b9_n06njuaz9vbcfKVKD-9pCon8-_3puygH9V6q7kqenjqoBcGosk-VnbtyfybqXvchNKfpDR6VLV2b5wtkQQL2O8kSE3ccm0lj66ODkAt4fCkcaExaXSekVFx2varT9STiWbPjxb97-fj6es8KxlHouRqt0g1Nlqz9XUOsO0TJ0.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfF-UDhu_aw2m8MWd-qckPtwc8dK7jzcXMjyatWUtlT7hQ&oe=683530A1&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_narration_activity_summarization.csv",
+                "sha1sum": "b635eb16abf965a4076bdb37ee61f3c93ded54ae",
+                "file_size_bytes": 7209,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_S_mOK2vs_qUZ-sdqM44pSiqsbW4QKwwiS5nSKexkFLmf-CkKYrcSJg9eG_o2JtchXGgHINZuuT7GsV4hdash1TJffr1Reu0WdQ0j9ZPtjmOnYva9i1XBoaGQ_-N7uGGVwy2Gf64vqVwPeTP-fKzQn3p2TqPLTfnH14xTSag5hH_tmz7uBlR6EAMFsGNOyWllPPWHYc2lSvOd4twPqOoM.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfHDWOCJ3cd51KSFqufYN1AyrxtErJOyXQzDhW_mkvWs7Q&oe=68355279&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_body_xdata.mvnx",
+                "sha1sum": "fcb085d119aacbc29655ce524d22869988cdeab3",
+                "file_size_bytes": 1753134902,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9Mo6AqaVlX9oI0bBZOjokrAyVaTPcH2ETp4yAdOzWEIJ3P8qUkvCNBdm_VMoJ2fQe1nzKOh8WdmaRA4nCSnDxBl_b50rlXdRJd91txoU5IcRh8R2x8fvZq1PtmL7MEl0hrmDP5e8dXNUIWQ-SgmK6lgWocNsukJC-bf6LMl7BelIkGFHoiXCC6Wstm32d1VDC-p7Gl.mvnx/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfH5D1SN0sxnYJW8yrfx4oDvCPBrCvTzD9RYPLsdYawAOg&oe=68355E6D&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_narration_motion_narration.csv",
+                "sha1sum": "83e1361e6ec4af8a15a4754f6e6dede556164648",
+                "file_size_bytes": 76306,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-kju4uVw_0ysxnWj3-xcNmKx3T2fm1wCPBNTm5Zi-flJPgDGXhEmm_6F9mo343xjoMPbtNEC9GmMxwZcFFVKphRSV6D1hHrisCQ2Zo82lqBcC19VtODlqeHBbiJ-ItKoR36O2bJJ4K2apFVDijoAX3qsTfmvWTyziqI8r3WRbHc9iWqVRmdN7tRzjsAvnraeek6Gx1N9XREEBu.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act1_m1pdze_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfE3i7osikCXGk8h0mGHVxoqWfD0v9IpXltUeZ2J-cjW7A&oe=68355DA1&_nc_sid=111504"
+            }
+        },
+        "20230914_s0_tamara_gibbs_act0_w1z65k": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_preview_rgb.mp4",
+                "sha1sum": "bbaefd162700972359b1b2c33f89e1e95b36e072",
+                "file_size_bytes": 615082588,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9X92on2oiJ5NZBHasbvuHwkD_Cj8JrdcBYSR4h1cebbX3WB4WmWQTYTNqC3JYpgNpEQSuSMd6XluCRwAfbwskkV-5iEldM9lGauvf3QGolSHLLkJ1VegVXDq7GFfwZ8hnGFGRLinT9WeOkRm3ODDKKChmUAcbn444BkzE5KmKOaXuTXglrSclaOwwtv8PQp_-OupvQWA.mp4/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfF5SJqfP09FcKwkLsKp1MTMtD996YmAOUpoPGHfmFh0iA&oe=68353D51&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_body_motion.zip",
+                "sha1sum": "57111ad62f7b25791ac5fdfc39a95452ab46954c",
+                "file_size_bytes": 903297793,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-sFy5S4Vy15f-Cxp0RXxNZRzp1BR41yvDCBmt1h1nCN9CfwCKc3n6Nr4Dw0NJUvoISEbxZmLgqrHwdHiyXWFfozhqP_kkc1Fc2D2KwM26NgMPsDIxP0OncqVLXzuz-1CR3gG5Uaj0QKMcUguMdmSg_sW2DKdWe60b34ONShRFa3eVgBY2wwzeVY1kv9gGesF45P0o.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfE4TWMvfTws7bL8JN4DQ15JMkLw66qWwwG7Rxp1jqnNUw&oe=68353C0D&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_recording_head.zip",
+                "sha1sum": "fae630947ce94bb7d7e7c5f488fdf220234498bc",
+                "file_size_bytes": 698615036,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9bv3hb6bThfXIUwMvTxHzthBLP6S5EhZ7bhRTCan5T8I4R4J7Pc7orcM4TRhe2yRIU24upI7ZxkMikan8Dq4l933Q08mXpgxYHSsWMVw8WYAckpGVgNtHfpJ9ebPpIB-b4vydQRpEicSiTOGELTBm0A4e2aWRKow8dNzwXsgBPtXwmlg9RMGJmZIR9g9lPUgfc0Tsp.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfHTmZLoslC2wYh9w3Rmr2RivOj2XXleAJl_yB_suGu_KQ&oe=68356153&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_recording_lwrist.zip",
+                "sha1sum": "4242dc30a702e596495a0d7f0694b37f4be4bcad",
+                "file_size_bytes": 482086837,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_20SmsP2pYaPrMOccpPeKISgAdn5ZNJKoz3rktCiPa5rhBIca22fNCYJsHXF2I0il20OjhRh8ENc5cNw03D0lJ48sv01-nmfO6bFO1e0-sUa3si2WBZjKr5b5HBgX7TjkEq5XwO4l-g8FeUUOEbrohW0-V0dadufO3j7MihX0PFX_yH6somPuYNfcYR_NKrCKimboRuw.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEK_ck_5iw1Fl-pWVsfAwhdmLUFghcG-138VujmXlsxdA&oe=6835519A&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_recording_rwrist.zip",
+                "sha1sum": "a2321e34ccdc44adcbdae9dfa25bbf1e871e8d75",
+                "file_size_bytes": 367899059,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-Skeb2ar0wdsIdI9tBB-3-CTyHUK_LmpPUWoFBJLdlQV9bDZmrw8K3Y3y1gQLJNksKNknShZ4aolUWgajEZRiWeQf7NxUswuslm9HZxuxqZZUoMjsKqFHVhZVUfzSxXlZzVOBtLjU2ybaAGYEX6v9_AAXgzNThz4zm83PNgSiTpu2cGK_eUAQ673HNZG7SD_cwqy04Pw.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEFA1d-IM5TIShDuNJXi82VZqw2RiBMQeMgSUxX4kHRfA&oe=68355EAA&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_recording_observer.zip",
+                "sha1sum": "3aa54ce22ddd1eaaa974c867c9795c493a8e25ab",
+                "file_size_bytes": 769676032,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-ZTfRS3o0jsxa8xZ-WoFajLcnrhY8XlSNonSkSNJ8jpUXa9XkU35gx3Poc0eJJDOEH3epUX-tZQBRgjCh3JmPBFfQCSE6GZ7qMGqwtaxi2gGi2jWd6eCaFiQJAVZxV7Zt2obCNaEax46wQbpElg08-4pmyVJmZVueYF6qshCEp4e00wYhY1LtePRndOJ7wswf9x_uK7UsT.zip/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfH28MtIP39nqGbn4QfR2P4r0pYrdZA3MYTKp4BMRJ5qBA&oe=6835358D&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230914_s0_tamara_gibbs_act0_w1z65k_LICENSE/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_LICENSE?_nc_gid&ccb=10-5&oh=00_AfGP_CLK-ppczNQyDZwR2t_z7kgt74z8o_PmOJeA6lgX5A&oe=68355837&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_metadata.json",
+                "sha1sum": "accfcc2deab5d613c6a930d050ab50480fa0f487",
+                "file_size_bytes": 1375,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_hZpzgamvjrbIbRwiueZEux8L2mIDh1if1gurZbbGOmtAjT-kPWPs6zD5XODu9ieQ5PQeFdgdD4WnSVPWKXREEbpExYGn0HGbb70GxpKlRQ2x7wcqCqRyjGBrHdJHzEhj--lqUw5TKGH_5OP1gOZqhs-aDVWuplSMrxvatYGO5YkaWtJb4V10xHwnd5KQQZic.json/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_metadata.json?_nc_gid&ccb=10-5&oh=00_AfECE5IPFz_AjgNv8qMwRUikjMxns6BJgxkEZQYQCWbtKg&oe=6835363D&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_narration_atomic_action.csv",
+                "sha1sum": "7ef91b4b314eddbc343f3058615512e3fd20a7e6",
+                "file_size_bytes": 57357,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_ass04woAekL3QyfuvkinoRhjYh3t2VaF4gpzTVpkQrt0b_4ts0IGVQbCbslx1Ftfh03T8mD98RsthNX8YZR_JQN2YxD4jVB9fxzShxsvxQbLAle8PS6KiXIGxp-tH-a5yp-wgdj6txACKtlbjVcnjzXoIj2E2llxgJ7dl3aI0sa5u0VB_Z1DirnLSg3b03ShAiBP8UnXnQ50.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfGaXqO2ummSypD7so4-krmKgGUk0bpUqpXwdO-BLN-FPA&oe=68354AD5&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_narration_activity_summarization.csv",
+                "sha1sum": "dca6b87c52f256eb713ce85e89b12379479940bc",
+                "file_size_bytes": 6284,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_tBHoU7fLuYmT8ya413rGLVBqfeZS2YT7BvwRDLb8Pk-lq72eyyHAjJ7O_FeyTd3jMuPJa4LWiLBc0m-FrDZCZNYks9y_J4_wtel0cOb2j37vls5ZuCkwjECh7K2jRhXHlhxHlW_UVq6FZmKiIloeful9FUApR4BND0Zr-IxI2NgYSgxe7-ktrmXSvINcezZnXVAieLT8g3_8ixNI9NB0.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfHP8G2my931pE3vYNd2lFsV9UJTlmABVFDkNIizSVFqFg&oe=683542E6&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_body_xdata.mvnx",
+                "sha1sum": "c4750c979ab65bccf911c6727fd612804dd0d887",
+                "file_size_bytes": 1814956015,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_LxRKXAdvzMK-Qy0EP3hHuh9QD8Z1un_jCidj5shPC7azqHde892Hl1f4zA_HIBSgKcSpK_QuBQ4q-kCqmjHlVYd3Ga4cz6-MgEd94d8dlfOalnnxCDypbMv27sr_wSQ8uek3pKD7ofNNP2a8Mds93GcqBSx7ZTiwNUgVdUH8Y9_wIO3fiPn395uJwiQzDuW1i9Lpv.mvnx/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfE2Y7x5nIy4aysiPTHtA1mfli-3IwkSw0DM74TwlJXAvQ&oe=68355636&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_narration_motion_narration.csv",
+                "sha1sum": "c2469438dafc22548a628ccbb6f091759ee4e4de",
+                "file_size_bytes": 90880,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-o1FngYDCJmV56ciqLz0ULK1PAAEX2WSF5mckd3CjqAvPwWPUBjj56oAegAeUC-7J-A8egwY8IjTD90rYchgfaBE9p-XZO1jPAeviRfUlm8ZCjJW4voH9HA89HKGi_SR74FUtm9yTHl2dG6vaNlAjWC72tq8cSUhmABOSMLVfTZ6jqBSsAJV29T5eVMg6KF-DEuzi3dJURpmKF.csv/Nymeria_v0.0_20230914_s0_tamara_gibbs_act0_w1z65k_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfFAGN2IF6g4Yj3QotUIBYlRcRnJkOrwCkXk7xtwrTFBOQ&oe=68354656&_nc_sid=111504"
+            }
+        },
+        "20230913_s1_austin_lopez_act2_4ubdk3": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_preview_rgb.mp4",
+                "sha1sum": "7b4bf1302a25de52c9ab82e1f87c580dac271580",
+                "file_size_bytes": 738065076,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An83rLPZGLZO5Hr6fTBZqIHJfHVGOze98vsNDhSQdTf-yp6n0QKf1oWlHtmQVz3g0VKqSk2PtSvNCdbGGqI5yCNgPXa9Z67vEsI4PxSjACak6E8ftOJXpkaGouNdVz1uD229N38sJ0pNHe1l5QoXlMBr5KAmuqKRObRp6wGSKWxFoxbLYNn1ohL3xotREKij6iAY92dsBg.mp4/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfEPXFoAUD4tywRP8h0XVRtuF5f5w-B2CV1qbj0f4E_4Ew&oe=683547B5&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_body_motion.zip",
+                "sha1sum": "269f3fd0b4419a24732bcca5bca6531b04662aed",
+                "file_size_bytes": 1001750972,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_hQFL7d3gNWr59IDyxaT5lyartO13BYPnJHPUV3Rvu78YC7BVUn1wYWKkc4RW-SUD4MHOeHx-o3nbWnzPjSs4PH5Rxj0ePa7GRWr8OJbmyBbQrG3mznnCz9WQm_81YIjM3wOOIkn4gpbrT1VenUUhtsH6y17s0NFSInGTa8R8E2SoCVim72srtDlExaASWIPTP5vc.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfHO7J3YMaL2JF1wkja8EXDZmfdhZPjUVZN4x_yYNuHwSg&oe=68353676&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_recording_head.zip",
+                "sha1sum": "0346e616985f7c57fb2a020f0bd53640ad0fcf6b",
+                "file_size_bytes": 759121636,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-mf0CG46QZ0mBRZU365-XM3rVET8Krtjmr2xCpO6Y01305y3a_j73r6WKjLGTXetSc0s3MAbHI-FcCnA7DMnxp5bM8vTWM7Xgw1wzlptmbYmE75L4JHwWT6-OWrQzqo1VLMndw6vDzqSFp-LVrwV1QwDBzxO66_Hci3wIsFjsog46MPmvhaRlBFudE5K0gZJEr4Jhd.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfF95YiC2AFTEKbt76IEptHJvxTkmowWJHZgexAwa_XjYw&oe=68353272&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_recording_lwrist.zip",
+                "sha1sum": "365d937031b5cf4cb515112eb08390c4426aef5b",
+                "file_size_bytes": 585928145,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9ws4wr3a65BsotV-zayp0qtLgeRkd4E-r2pRZCP-C96lb957GG4ob-N2gXF5VOR8qQ_JKv0sWXlc1QgEAkkCxElukG8rHWMnUCfPWrH22eRb_vhiji1HTxhkAKXIYY1afnsya-VHvjK8xxJO9lIZbJXi-p_t10zxG-HIw3cEbL8OafoCcff1kgRNaC5QGyYz-XDjOTQQ.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHopLb9yudFeBKIiS_2aKS0eBJHyKLZ7RXNRy7YUnvexg&oe=68353995&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_recording_rwrist.zip",
+                "sha1sum": "4b86f3f1226efd1c71b551039e3a0486068fbd4b",
+                "file_size_bytes": 599347739,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An81rkyF3Ls4IyBKgvyXthUdPJSlEX4rW3Fwxkpf0RmfvpOgDvRqgDv4oQvS6B0P5q8dvyNIQVe5jaGQhP1AyF7LAecPi_os0D0-ZMRKRoielHPlC__GJvZR1qC2qtBQobeZkHmaK_m6K376PN2XdmokPhtMTQx0QApQQoEtT03omMYiAJwxy7mXIzCNukQXmfeT29lj9w.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfF2hNFdKY5VLyT_0yQXeL3f-ihqd9y_5Q068zu9RFvcsA&oe=68354620&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_recording_observer.zip",
+                "sha1sum": "e480c652b8a6cd202a58273e19ede1337f5e36b7",
+                "file_size_bytes": 679083488,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An84DQYowsDjpqa_ZCHSDClwsu4Lz5iI39jGo18d7mRJ-F4b0QIYUT_JLRE3ZyLOnZW-bHvO3z1tDfFfECuw9fKfzX5vmEjWBq6p8tqkxrETGDyZoDWuQQmeV6L1M5XQWwjjuZrqz4YWmrwD9AuptpMGQ2Pduog1sVkkRBeCfOS48P0r25rLobre6kzy4nULN4DPMN4v50Mk.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfHRhAR84vZsg_eqeJTkmZeYDSUt2NDdTSmXDo7mYLUPxg&oe=6835382B&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230913_s1_austin_lopez_act2_4ubdk3_LICENSE/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_LICENSE?_nc_gid&ccb=10-5&oh=00_AfEgWPkXOTG0lwkMc_4_8zf9w9vGboEK5u0JQ4Zkq5i8CA&oe=68355D9F&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_metadata.json",
+                "sha1sum": "551ce9b6d65cb57af2c4c309ece456f99242bec3",
+                "file_size_bytes": 1367,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9_Kw2E44jdexf_2frizf7SngU5qT7gjlGpoB_yaO1ILGTByVBjywkyitruSLTWPgPBUHrd1hc8PlZnmf6CK7ZDri6zL-AeL0veKRfza5O7yNeN8HN4m-obceO2YBnx0TBBKpeqkKzbiGCp7n4uhWYHYDk1ITKwGAljD3oFSpMwZLc9CGS3C9l9VuECwurHHIw.json/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_metadata.json?_nc_gid&ccb=10-5&oh=00_AfE8j0snKrJOceL19HEdM_qaXzZCTSFUZLP2xxX4Uuw6gQ&oe=6835521A&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_narration_atomic_action.csv",
+                "sha1sum": "59d87b183286c1513fc985d01ab23d0fc47e46b6",
+                "file_size_bytes": 54828,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8sZ6jrZQPqQRBDMASppkRKFwWxRXeDYR8efN7SDFeQ-x_hv1xiEminguTfJsqMUnY0y26rHA6fjPC93Z3kjeYlLmdCCRZA4XqGiWJKjMSIVludCZ9oV6ZbLba90qeTRdZQ2ZNkapVJY_ZrnIDZd2jzlto5ejZYdowrHyV5YWZMGTjGvPOlFyH2ZbP2CFXNPXRFOj0hdG-enzM.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfE6CQbYlT5dCrc7_bDK1B0WV89tpxO1bL4IlzIwjKAmkg&oe=68355396&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_narration_activity_summarization.csv",
+                "sha1sum": "8ddfd846e06dae6cd8870ed91e26735096436bfe",
+                "file_size_bytes": 7201,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8TLC6tLlfe7Ql6Gx3E41eY-Ij_n_kpT41URWUUORs7LaTiMcQSQ4uuPAO2dw3d6O_KlmKRzoXaTrsDqIHfsrmr-y87SBpTyhYtG1QVjnxsM6AJgEOhj7C38HRKitt91iGpznNj0z2wwshHJ8ipFXyE5Fr0lVB0pMevTiXb5fI0dAhcsaYuXqiBXBsxU01n_CzSc8tMInVAO7EYf9rJhBM.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfGmwJLu1Rq87cMN28SfSWw8M0mOnerH5gsuR0Ag1UPrQg&oe=68355600&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_body_xdata.mvnx",
+                "sha1sum": "fd0a6278e5d839653a936382c6e2bd653c22407b",
+                "file_size_bytes": 1858427361,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_yu1UA_EiRsb2_ylOmW_lwzmTr3NyVs5_vcWa2BV3OZ64El3KVttrmDw6pUwqcL-dlZ7LNUW6dPHMjYAdE4rtW2zdMwOjgdnvde-8upS2Kau2Fl0i0XQsCaUlnm2KNm7Iv3XTjOvAhnySYhbZJL_k51-wMJEC5Znoa7nuOqL1T_mgdVT0SAqv5BIPv7EmsDeW-fd5D.mvnx/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfEqVo8wjkpE_1DWz_7djcVUKVw5O3veXkJqZTmE1AyJAw&oe=6835504D&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_narration_motion_narration.csv",
+                "sha1sum": "c0b162843ccdb9c0769807b92e7340f259c69f87",
+                "file_size_bytes": 79873,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An86G9zUxW7b2-VbguoHWuittPwS0GrG_k9Xd12LanFEYyCkQTvc-RBR3teyj6iXAxEJ_aX8W4HvH7I7GxGZEuDZhJDUw_9Ailqtvmfu6Z0ed8lkxRiry3GtHBRXIjl2uzkPQ97UXdMgPAlL_6eqG7rt6kQpJrO0aqB8GPiiupyq9AxiuOCmuVOoZr_RIo16yFjICqfPVlvAOtyT.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act2_4ubdk3_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfFM59D4HnFlY3xzyKIOQYeEgU9Lnev9Bj-7B32ym3b2RQ&oe=68354F59&_nc_sid=111504"
+            }
+        },
+        "20230913_s1_austin_lopez_act1_iv3aw1": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_preview_rgb.mp4",
+                "sha1sum": "9082c2da10b37150ed06618b07747db369359159",
+                "file_size_bytes": 653924389,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8_NVvAToMsFvJOUr_OSw_wMMRNpEdw6ekRwK-K1VPYJY_drZi8BJ1y3tu2pOSBZhmzzLlURopIulCFrjadW9p0Fe-f41byeb8BxC1H6tHTtTf9rCiPYvg6Sz4pFXEEkJsXCvUbne5BWkHyWZlTr2MLcHgtUSz1waSZdHY33tiXhJZDD1z76n_S7G2nvZVfw2_i40mB5Q.mp4/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfG54N-SgezLP5uJPB95ZTYcI-GK8tb6TmayJC0Cs6aQXg&oe=68356210&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_body_motion.zip",
+                "sha1sum": "3aeddcaef78dadfe97ab3b2cbcbd561461d99fb4",
+                "file_size_bytes": 991442833,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-5k4RFn3dFgjYfEvTddRPE8ADs3-qYYWvLA40iTwL459Q5Pt91JCjlkPtYLMLxbgWBzBcW2Thn6y6ImCGwGBKkW9lklayBBRbCFDPjNkejNISboBeM9ayOH8-v6swh0SvSQ47AC08wUPkB9fe_rzMtddwcrr3o97lHBQ74NeQ8KCFdMzaxkIS2XOJUibGslfC-baM.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfFxvEVDaFwYE2St_MucJq7yxrMB9ccquaTbnOvKvES7nw&oe=68355260&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_recording_head.zip",
+                "sha1sum": "bf8a873620d019b7121f089ccf881e4c714a17ed",
+                "file_size_bytes": 546924323,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_DJDBId_cwRSbTTVCEODvoo4S8tDte-sUQxKSwyi_XpXL1roZLQABPZWn-3h3Ownp7Y5B0YbCpq6o6nUwDl-F6KH5yMR-LVlD2JWqDZ3tsjxx_BDIL0_vFJgoru8plYxPVcAKQeyakw0Y-8sWgq4enrwoSXug0I6yo_uyaqy3XSQgGKcyy0rCSAiUI6_1cgDd26HIK.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfH3gCUn0UMwB2Enh16rBp55_rzWB4xVpGJdfGAnKIxMgw&oe=68353FF8&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_recording_lwrist.zip",
+                "sha1sum": "585a11595457f23e039509005fa73c33b2ab1b95",
+                "file_size_bytes": 275055426,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-tXcglW2TT3QJSRITpx5xOOxiK6lR0xTLHTObxhaX1NSQB8h163duNXh9R1tqXM_0hHGQ5DY12hxmJ7IkwzQY7SbyLx3MVBB--qYoQOOTZaR_Ke49JDFIRVwQbPastl_QQtg5ug_oXEO0G9bpRVJIE68RTz8H-_NtYPdO9ebqn1uuJNayAA6AwsBxN6dYxke71qcTi0Q.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfF0g3Id9ggfQdTG7-4ibKDdyPuffU9iikzf0nLU0JItwQ&oe=68353A36&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_recording_rwrist.zip",
+                "sha1sum": "2ce3910a2d6d232b82e7077ca41aed3c3d7cbc8f",
+                "file_size_bytes": 311165454,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8HU1WmLJK3qkI8vmPpH5QZkfqjrxYQvZabfZuCXopEr0odacXu0emfa-BMFWNXQobmpzb7X-5DcMRB4UOfDmsXzt0jDzPrBvUWATQ3Q7w-hsXFjlVkAT_mgUKW4xeUeU5-NKhZWBrV-gdE8r_LQ6pEqhImBuJLzdQ4EEjDGj3TRecW5zhsgP2gDxeC-2MxmbnY4oc4lA.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHkLcNK3awtYCjCc3YUBlEUcaLhGqDNJrHhfI91DIgC7A&oe=68353387&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_recording_observer.zip",
+                "sha1sum": "2afba1549c68fc061483e96fad3b8e154d04096c",
+                "file_size_bytes": 478522353,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8GdFAjomkUAawM-T-kgEZgsdTQr168sWCCqtvEI29jRBmkghqd-fZm8sVWDqlVlr4XVBUuuqIN3_LmDzb52HWNrP2irkiBmsFZZ9jKaMTBPZFT9AKWxKvRhqMxKWpF5LKtw4WuIj1azNGJtyO8_YXv7a2eGv_x8j8U7Y1amkpNsJxd-2gMiNzhGpflbNTQWO8iymnP0utn.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfHI9YvQfakriagGSxJHeiH9ut9kCzfkmlVaDlIMO1lkpQ&oe=68352E6F&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230913_s1_austin_lopez_act1_iv3aw1_LICENSE/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_LICENSE?_nc_gid&ccb=10-5&oh=00_AfGflmTWV9VYOBaxV-WBlvriwQaVb9vChUgXEBe3NLe2PA&oe=68353427&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_metadata.json",
+                "sha1sum": "557c536a1e4e970592abb4d2662316b08d3a471e",
+                "file_size_bytes": 1370,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8EsvEkI_InRrze9bG9xSVkSP4MPubuYoXzWGI0oeZ6hKST7GxhgKNOtr38aRqUb14yF_-BdcJXD4EYxDCoUvyXZtBcvs3JiqWvq9K9gTCKtCVbFnIhAmhq9CZBA6gNjgAEuaJh8_r7qKDAGwyxY8Sdn0l_Mxv5bLFMOHfBSmouLVRe5j5GojeA_kBOVu0wiG0.json/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_metadata.json?_nc_gid&ccb=10-5&oh=00_AfFUezuqUxeO2DODYvfnp5inqdpafC7RjqGLDPKkV1g75A&oe=68353880&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_narration_atomic_action.csv",
+                "sha1sum": "b487939488ec4fb4dc41227a7414907163e067ef",
+                "file_size_bytes": 61709,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-MlZwOdUokfpzdq0QuTyjH5v98hSiGuRlRujK5Bp6YXCDmvAnuRKFNqFNty89R9rx1gNqJSo7YDu00OKUXEqDWXMcT16K1SQ8k9TK-oTqA34rS4hktHAcReLvqLfdqz7Y9ZtjJzHV5hTuWLeaMYavhoowlssYd6dmlwO0TQb9HVWmjZzJ0tP0p5fprSrvgWPEQT_hCoZdutsQ.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfFlVhJtXRtD_IdeSsXgt6sddudMp77LTQIzMeV_Lp6fHg&oe=6835603D&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_narration_activity_summarization.csv",
+                "sha1sum": "da01aeb6898c8a669467cfa665ba2ded3b4c2ff7",
+                "file_size_bytes": 7019,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8Wb0-vXO1AYy_Qi1utG5zqe1qAsoPbyaR6P4TR1Uz1ER8HsES5i7vUrq3wwth2VRQVmvT_vzcmWIztI93NngRzJO4ZP4y6qxGKCs7c-xVQHDxGFWFiKYTTHDNTeHigqMeuoGKHtVlrKGFfm814ZGhQYS0V0HYF1CmySHXgg-0WjMdB6W7OQ8lrAh7vRiNHwwCM0Vsm8xVQIR3wzbFY7Mw.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfGPYuyMmEWoaRcFEISuyaBT-HCxaFdua0XOlwxojSslow&oe=6835644D&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_body_xdata.mvnx",
+                "sha1sum": "e4a0011cd88c138e5dd7c32913ac6f473addc3e7",
+                "file_size_bytes": 1898881134,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_MpSuWl769X0453ibOglddnhoOQsb0ldL5YoLSO0FHcN7_VfW_o4jCciO1bAYvrjt23HMqqpqyZ-tK5eLL-W5gASfPwdvPHWc9bEyW3h_OJvyMlY9aQSFHxD0s3N4rxFI7D96N0vPgcRWcrs0aH691YaGA3WpcGxQ7-6kkNvGpIARoSaITh3Evu3CLe-VeqDU4L8Bi.mvnx/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfFebu2ym5U37BZ2Soa0Y3KcWdx9tivD7b6RcMrqZ9XnNQ&oe=68353544&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_narration_motion_narration.csv",
+                "sha1sum": "858aa1c40770289ce5fb713c9af5b5bf57a596b4",
+                "file_size_bytes": 60163,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An857AGGH0_RI0Yzu7r1slHIvE5qGvLlQtm66Vzle7c_lNk7RMYuJVgOPZdOS-I_GZRs0eavALKBwk1hvrDppIhUuWsNtW56GmHH8cbVfbC25wZlRU_MYf74c4TF_RzCpNKggyWWPI_v5LRtholUbskmb6a_gSBiaIgI6cfy1MalWLkokqoUyO3wawVeausMMoTmeB-_-afXZoWE.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act1_iv3aw1_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfEMevxzSW6wnwJtdPGFP2ZTzzjLnLEwpzwCO2CaYvZK4A&oe=68352D9F&_nc_sid=111504"
+            }
+        },
+        "20230913_s1_austin_lopez_act0_kf5qz3": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_preview_rgb.mp4",
+                "sha1sum": "a86e323a8e25548cc2836bb975419d22745345c1",
+                "file_size_bytes": 763513647,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9MWA5QNR8TP94ThOXBf9sSf_GDcdTYEg2yIGesXoFDeE0cN63Sr_asicAniMaDn4lA4HROhHnx73lK87OApGl_nHm7PtLvpd4W5M2l_rKqipa5vE5BOuY9FZf0-Z7qfzZADvhd7Osi4KO_2YeAL5cDwI_IazlaT5bqs7XHnv4x20YwjkoUx-VfZc897Zae_x-en9JIJw.mp4/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfEGmFN4fYOzsFk23pbcnNZtcz7A8Cr2wbMo1JerQwT0PQ&oe=68354420&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_body_motion.zip",
+                "sha1sum": "19ddf4dab2687ce9c55e53ac2bc2f39ac4bb4835",
+                "file_size_bytes": 1010201812,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-KiXGlYr4awTThQJANIcyQOXGNsBeGuEeA3DANdqD8FYe7ri3qzv5KIjbep83LnWscoMkzJPIGZtSCAsX6HjKbitM7_dYNRm60tHaEzI-Sc11P_YbZ-XKMGJQ1nTeJBLsDAFI3LMyam8hdSLCjl2rzqF4vCnblsBc_RGZw5OdFCJb3zFC8Aqg7cysAPEpWFLMduBM.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfEIfcOxGnp4GzWB9iU-9qK2IrRGKK_qcBLaQoHtkNUkag&oe=68353516&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_recording_head.zip",
+                "sha1sum": "15dd5c3ce9997f6e9b150d4fd576e3decb544d5e",
+                "file_size_bytes": 647257347,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_UxK4vp8NOVyg1AxQWwbTa3qXizGsrYJ33qBDsrdnmProovZrSsumA4q3eWRgxZjvFxjTRT7yIq98sGfXtDVHpwaCvHz6SoL1PxQGjjyAxWD9ILxXEI2qQWdqZo2xhtR3z_JPVIWFZuldTkGvE4cdwRdJhLxZ9BpzkOd2tx6AHNGDq7bPYPoTyY1RUKEZluak892R4.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfFmH4J66LJRqkv1-ge29PCQj0dQf1MHEiV2RNmfWzN9Ww&oe=68354D4B&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_recording_lwrist.zip",
+                "sha1sum": "36e6047b58455413cfcdd394bcac2b43b0bbc48e",
+                "file_size_bytes": 287361210,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8OI0TCiKJJloluOjgIw41m9ZZ-pC4_5LNCZeOkknl4xPqthBUHdyVJI3H5QbBX0AuHM8cq5wSYaoBj547dX10VNYGvrMyCrdYBWIds8t-3Wzj1gd5ipRhfeRwiGlKTR7X3IluigPO3NChl77fcIeUvP6AeQAMdnZ7hyTD08D9e-fBtUJwMsI6mjXQt-_Ko1_LG3sEYXA.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfFZw6mABReh-Lu-VaAJbglfJT5-VB7X5ZDnLRBPk27LyA&oe=68355E10&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_recording_rwrist.zip",
+                "sha1sum": "3cc7b34786361b8f5589a328b90eb3418299b943",
+                "file_size_bytes": 338068690,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-6e8tdHWUc79GlKMxsecJ7oRF0EZQ8W1qRJflkZi3W7tAw-WMfGq56roCC2sksxijynC38V4EP3cxq2mDJx-bsYulsNrP5R9ByvgQZXObTpJGE0LGmL7_c1tLFGJ-7MS61vR0zbRPqwA7kf5c-csmw4LaXNlKPl_ClsMonHLf-4wevcSRhGXwfan6do0SX9eqNKH4FtQ.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfEChE_y1ajPsGs4cxoGVuQxn437kmPgVV1IRF5AReNDUw&oe=68353FFB&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_recording_observer.zip",
+                "sha1sum": "62b8ab9e3ef5372b5f4246de45a72175a7065172",
+                "file_size_bytes": 530796937,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-VCLkeixLGdORHj3WJYFvWTsjyUtK25KqqGsdSdudI9R10MoJYPaxkxyJFzBfsvhyFqMz7zwjlAvPMY_qSJ0mqIdSQi19kJgKOXmSdS2clUSmNVSPXexkuHdJY081RTaocEzVYnGmYlpqj0b7K1PCTR38oJWPClLCoTNRC7QXO6rj8LesNmEiXC5HXpd5OZG_1okSG-YwG.zip/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfEYDtSdLeGxEIIhYS1zABMiU3t2GnafaHThHN2M5if7XA&oe=6835610A&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230913_s1_austin_lopez_act0_kf5qz3_LICENSE/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_LICENSE?_nc_gid&ccb=10-5&oh=00_AfH0gWaTYMboWisEiCmG3FpWi5jEQbSxeTDkS3gifRxxIA&oe=68355A9D&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_metadata.json",
+                "sha1sum": "9b8917ed8722b759631edc06f86f53799b67effd",
+                "file_size_bytes": 1369,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-rQEx18o5h8uCRJeT-l4CqAW-pxbfW7_N-xFdOLCPWulfCUarI7SoXVtIKctfMAUi8GIk9kMQudqKhLLugblsvpMDN4KzGT-Fw1W7tTjDgd7p5zWReJxAI9-StHdgM2iT2HOlLNgy0eYQPe6TlxcaqNR_WKFI_tX08Yavw7lWifCidgDGIRusAwaNnPoX6o_8.json/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_metadata.json?_nc_gid&ccb=10-5&oh=00_AfGPj7RVytsJclzHsnvJJPFIR9tuJHbiZywJ772Rv_qBuw&oe=683543B2&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_narration_atomic_action.csv",
+                "sha1sum": "ded714328d2735fece2960d20fa0c2a22746d922",
+                "file_size_bytes": 65763,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8Yh1iclUogyqrzLxXf3_eKx51-mTzd4qJWLCJbOgcS8TZdJ2U8m2_NQaWQFBCpzsaETC0JnZtb9sSitzeDHFGt5XTMWgnLEdAB62cUaI30YXIg3SU1gNVFoeWPpxqKdmOyyezP9ukFgHD1asMgFhGYHNQXeSDluRWfbYj7LZFIaJF0zCuV_zxhzH078LrxMhSK9UP9WZ8v1Pg.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfGBd8REj4A4tqS2Af5SAvPPTM0ODZrqF0ZhWH1tkA5XwQ&oe=683561BC&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_narration_activity_summarization.csv",
+                "sha1sum": "86853403ea3414168bfcb4a5464581c873e18645",
+                "file_size_bytes": 6628,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_6hjQ4RVonYyP2rcd2wW46ParJrQFbeuaaN79H2fFSzQ0qn44DpgRSUpol7-nZYTNp56rwNf7WEatr8bemaaaNRCBJvSzbxwRky2BYsXZq89dW8smK2goS8yZ41IHXPcuYdhQedFy25MqRNxwqLNrNT_NzAhJCdmZ1oNTXl8uxCSqyLKKluTI2bmBuRehlnvAkizfP0dFTC_7g1-_9STM.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfFeGI7UQR6WrAyIXmjfWT84fS5L7lGBOzBASar-EskqTQ&oe=6835306F&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_body_xdata.mvnx",
+                "sha1sum": "309821e0f5a0f1f5b9c580237948bde0eb1a802d",
+                "file_size_bytes": 1922662460,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9KUkwKShNEImSh5z1ejVkgxin-E-E1HAZW6cP9D0wE7mSQ_5f8bYL0_7qrb-7KYqK8Fsqa0g5Js83ZAJxQ2oCjuRTOmVLRZ_KHwYUiw43s2zzP8Z7Qxl_bseP5wwDoQshdripSXq1V9_6Y8K0zys9UVk0CjbCw2zOncjSqXb14rSSApdY4grulrSBbqahJP1mW7rQI.mvnx/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfFxBtoPacjjcmUzvDWUMhP55jZDnis5iXLAvjpEvh1wpw&oe=68354D5D&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_narration_motion_narration.csv",
+                "sha1sum": "08fe5a926a1149312c33ad5b081df4b3c2ae8a44",
+                "file_size_bytes": 125766,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8LIC5xs7j1tZgtZIxAByEMg_OAjm85VjtZTyhePs99XsEMC3Bb1S_l6AiGY14uP622lrImhh9sSZkVQvDgEOShgUyNiZDnusn747cWK35Rpl5Ak5rCyagmBg9zQGhbe72CIuAQPqKYR3-1NEO8MK160WlAl4ZQbn68VDYq6AH1bn3fdkunTvd5E9zgJRR5ZB8zUMXbus-cwyjr.csv/Nymeria_v0.0_20230913_s1_austin_lopez_act0_kf5qz3_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfGGpXNmLbcaf-usNUUBPXIzDDzeNa4EL7imaQobuecZcg&oe=68353DC0&_nc_sid=111504"
+            }
+        },
+        "20230913_s0_stacey_lamb_act4_qp828r": {
+            "video_main_rgb": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_preview_rgb.mp4",
+                "sha1sum": "f8e08856486446e6079d7729f8eac83321f47fac",
+                "file_size_bytes": 1434856020,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8XOySvBuVSPrZE8FlcsTaJOjlsFp_fE2xCFI8-ajZjjaDNBhQbzK1MBW8B1kGmvDRemPUSfgQRWPTBaV3hLJghKyY2ea-btPUtVnVS8nwWfMaMc6JINWG8tpQu0ZWgcbDJyzUujpSblZ28kPw0FT7kR0Wxjur8tbiFjhV70M5KrKyIiASUwbG4FOLQQ6wH46dNvLda.mp4/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_AfHqYPyfHz3miHidIRCKyHFGoncPHS8FyJoplcoK1BLJMg&oe=683544C5&_nc_sid=111504"
+            },
+            "body_motion": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_body_motion.zip",
+                "sha1sum": "818b1e18b39ec199bbb390d6cc8a5e7ab2f8db92",
+                "file_size_bytes": 982889712,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-MH33ko9Y2hSoAjd5CjUPRZpGqk6IQsrb9cS55Q7xjvjG8rEo-7l31ihYgbN9Doc65ZiExCJ3nXCXRpDTP5QmoXGRdhhnIgLTIy5DYeeSjD5sPYjtvF7MjiERzhEvJb8VYXWStd902-Br3U7hwHo3RwR30pJfz52ilGqUezH7I4s5Ie4MZnZk3qlReOTjK_vlzwg.zip/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_body_motion.zip?_nc_gid&ccb=10-5&oh=00_AfEXVZshhDfMqQAoEWseCFi5ooZJxdA1sybPsN9Re1M7xw&oe=6835478D&_nc_sid=111504"
+            },
+            "recording_head": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_recording_head.zip",
+                "sha1sum": "90baf19fc80e2d1ed8ce63d4cfb2f36bcb2ee81a",
+                "file_size_bytes": 1552519715,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-dk2vid46bBzVpLlerpvwgeohXsdWMiUS-gzYd0DfCE1ayNQpbN1IPeYDpXjrqs519_gn8WeTWE_FYS2Z9NnIuHFzoSgJI0R_tNFcgusfBelNiOABMwC0uhiwa9XdilKQrSsGmSv_svE3n6khFJmiWWgUJmvaHZvBWw6edze093EdiBRrXnQYHXxlBe8fBSyzMEjs.zip/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_recording_head.zip?_nc_gid&ccb=10-5&oh=00_AfHAWvY1FsERVCivlGaou6qYHzqCGr4NmiwdQy3T4zvbAw&oe=683539A6&_nc_sid=111504"
+            },
+            "recording_lwrist": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_recording_lwrist.zip",
+                "sha1sum": "e5325ae97b9a1c73955966666fea08d55037d018",
+                "file_size_bytes": 1407986812,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9vwxIo8bQlQISYogNTumpTxDC8VsL8rDWx3dueX_cbBXkJJ3MpHupRTQQmql4IMJVVhySWRKPUWDwV_2dfC8WHwEsFSdKs_IvWwDLx__hPMrqlhwIgI2Tt-yLFmEwUtw_-DA-Xw-VEy0m5qs_YobtHrJU_3sAVTxSRCrEiT6ks9-VcIgGWxfVDEbVAdETNOxekb8wc.zip/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_recording_lwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHJU0SrokxHewB_H2GQl-FsZC_uIfRJDznGuXIN-eSDIg&oe=68355C4F&_nc_sid=111504"
+            },
+            "recording_rwrist": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_recording_rwrist.zip",
+                "sha1sum": "86e291c50e4b974e11450a204223ecccc7b4a52a",
+                "file_size_bytes": 1420742689,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_9JsUHRlLOWJAZTcjkV_mRHKUz2YlqfvsQKgFIW76M5G0o6xt9OQ7ww2x9kVaqP950x3VPMrkyax_6CFaKm_SHD311I8905sjNF45p9z3apeoNEkzGRPNt_Zv2c9K4TUNcVslSA1zr72vN5sg6r5XCO3B4XvD8_NkhH77WaMADXupVO9v14BHrn6uAnZwjSN_jET3r.zip/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_recording_rwrist.zip?_nc_gid&ccb=10-5&oh=00_AfHxIv_x1w77TOHOw5c2ANSC-5kSDCIhVy0ZwFHQJsU12A&oe=68355A5A&_nc_sid=111504"
+            },
+            "recording_observer": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_recording_observer.zip",
+                "sha1sum": "9eca6b0fae24e9ef198551d7df831ee1ff7cf5db",
+                "file_size_bytes": 1516834521,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9_P5zdXJWsJ0U81b-ZywvOe9ZvjEtDGBACd_ORy_uqQJGMTBH27KhWjboxEgXtbTJoU7EvpNjccovGZu4txwHVFtHSN7IuBQqKB9N34Tda9fq0548WARQ6B8fU2_deL_yjBipSGkS8R1vynnPlpKBYxZKpDT7mJm2cGSM8IoASEdoemFcxeceapzfksMwv7jvdAd6gpP0.zip/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_recording_observer.zip?_nc_gid&ccb=10-5&oh=00_AfF9z0Pak_XJKvZTIXVSLT_0642geyqQlJ0HX3tIce2mfg&oe=6835530E&_nc_sid=111504"
+            },
+            "LICENSE": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_LICENSE",
+                "sha1sum": "1e8215860ed7ec096e2d35251cca3a02390bc226",
+                "file_size_bytes": 20083,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8NingiF-njjqxtHHNq2V5boYU5HQ2kO9JDOuIockl4QIJ5zWrx_C0z-RNQu2jj-jYLxdZwryLuKHm9JHG9CBkTFe_xyKwO78kVeNPtJ-okf36xwl0cmgGZIof2-ctq09FfhohsYcg.0_20230913_s0_stacey_lamb_act4_qp828r_LICENSE/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_LICENSE?_nc_gid&ccb=10-5&oh=00_AfHl9szVheFU8rEXUVWE_U9kWcfYTBXJcW-xsOzPD5sPdw&oe=68354DD8&_nc_sid=111504"
+            },
+            "metadata_json": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_metadata.json",
+                "sha1sum": "fc47e49871e29c5a49e9966ac107513f96d297bb",
+                "file_size_bytes": 1359,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-jX-fhB-jERYNYTNpAl-sEoZN8ow-NMV1swAqCQEPGMaDrZ28LHvM-junIM7p29CnaprMPUdNYRYa3eu5ykbP-Wi9Eog93X6OrmDOA0arK7SSY-BD8cwEaZH5otq7XoV0RV38BuwB3k7A6jl7aMIdGfy_k7Q-4TWGC4Sm4LHPzCPk3BDaeeLJORcL1iCDrGg.json/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_metadata.json?_nc_gid&ccb=10-5&oh=00_AfEDIkCch2MnN7lcTYWRRRLJU5DZsm5c4fys8gM4lof1GQ&oe=6835547C&_nc_sid=111504"
+            },
+            "narration_atomic_action_csv": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_narration_atomic_action.csv",
+                "sha1sum": "c462673ff03ae38ce8f6c88abd98260245b649de",
+                "file_size_bytes": 41760,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_8yiPDbjsPAMNYpPPAuSV-GpFjeFQjDJBQfDszSgjXWcDtRwZTsh4A2Tzjj0g6Fikvo6ntA6qWcEsnhBB14a7znrpAp8C48r6gX6eWdsudzRmYq5Bi_Z5Dci5xfe-ikTAIsltsnVuGT9H4Qi1d_pESE8uq5GQc1ae7-8tVUXuZaMBGnHtTL_T6ujVtoCwtXrP0JQkU0U_2PQ.csv/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_narration_atomic_action.csv?_nc_gid&ccb=10-5&oh=00_AfFXfZyMRS_O_wMegLPl6bvJd-cYRVoHuW8QUHjOUXarqw&oe=68354DA8&_nc_sid=111504"
+            },
+            "narration_activity_summarization_csv": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_narration_activity_summarization.csv",
+                "sha1sum": "8ba67d6282e1b30ffffb946b9dc5eaa7d8861848",
+                "file_size_bytes": 5456,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9UUqNb31l7mgtGqbnkHX6ZLSoObfmH_QT5GOygMiu0u5Or18q-S8bmGaufEfl7CcsPZpaXAS_fQcoZXor7zdhrajENcVsKh89_MRWkIVqvCaP598jaRGSkfxYrDl251JZpJZPM4IONbpXPfJF_Oz5JMIm7Qie8G0qRktFCaXdZmNQDoJY-gKKkxsIx9z_ow68ira9_nG_d6gJrzCsRQQ.csv/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_narration_activity_summarization.csv?_nc_gid&ccb=10-5&oh=00_AfG9s37qt77E9ENcQ7PiBJ5YEh6N-_fIJ16wLZ291rVNjA&oe=68355FFE&_nc_sid=111504"
+            },
+            "body_xdata_mvnx": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_body_xdata.mvnx",
+                "sha1sum": "d7c08e5ac5e2de6fec6437f7d7cdf522e40670a3",
+                "file_size_bytes": 1817813137,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_X92kUfQUPiG8C2nLW4GRhr7pXG-VZOi8NZT444V5zaWzEtMLb6QE6qpyyXIFHzCZsCfz89M24Pj60I5A-TGi9wpTQshnXTJzgZP-D_MMBGai4H0wzNTbKUnCs33RTgImF4tCP4uf9mZM6vOd10DryBxEx3zN_x_CDooRbewlgWslAwGUn7ZUnPNM5nbV2mIxMgpo.mvnx/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_body_xdata.mvnx?_nc_gid&ccb=10-5&oh=00_AfFOGWVjmeBTW994krBulWyY3EEc9GJzBl8WQD5OOHD3nQ&oe=68353A2C&_nc_sid=111504"
+            },
+            "narration_motion_narration_csv": {
+                "filename": "Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_narration_motion_narration.csv",
+                "sha1sum": "c084760ee4d8180efb6569d971c3418d522f6603",
+                "file_size_bytes": 45633,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An9efUfXhlfg5iG70nV4IejHILfnhqWxwuuXtK5zxDt71xzNuXQo3GFbnu4PTZXfqnT0mE5FgHRnaZptcMaq2GQMhamIfc9pLHGWBv2q8z_QCqbYDRHp5bnw_xM6cHTSfvfmAq9qJNlJj432WkJ8gWsDiBfNs5mWnaDapdoPGd4CBICPt-iEcsP55BfnlgbG2fFly2peSvH0Nj4.csv/Nymeria_v0.0_20230913_s0_stacey_lamb_act4_qp828r_narration_motion_narration.csv?_nc_gid&ccb=10-5&oh=00_AfGVXruWaHYeky9OSBjCdVek70d5QVEbRRijOjcQGGK53Q&oe=68354DEA&_nc_sid=111504"
+            }
+        }
+    },
+    "sequence_config": {
+        "dataset_name": "Nymeria",
+        "main": {
+            "recording": "recording_head/data/data.vrs",
+            "mps": "recording_head/mps"
+        },
+        "data_groups": {
+            "body_motion": [
+                "body/xdata.npz",
+                "body/xdata_blueman.glb"
+            ],
+            "recording_head": [
+                "recording_head/data/motion.vrs",
+                "recording_head/data/et.vrs",
+                "recording_head/mps/slam/closed_loop_trajectory.csv",
+                "recording_head/mps/slam/semidense_points.csv.gz",
+                "recording_head/mps/slam/summary.json",
+                "recording_head/mps/slam/online_calibration.jsonl",
+                "recording_head/mps/eye_gaze"
+            ],
+            "recording_lwrist": [
+                "recording_lwrist/data/motion.vrs",
+                "recording_lwrist/mps/slam/closed_loop_trajectory.csv",
+                "recording_lwrist/mps/slam/semidense_points.csv.gz",
+                "recording_lwrist/mps/slam/summary.json",
+                "recording_lwrist/mps/slam/online_calibration.jsonl"
+            ],
+            "recording_rwrist": [
+                "recording_rwrist/data/motion.vrs",
+                "recording_rwrist/mps/slam/closed_loop_trajectory.csv",
+                "recording_rwrist/mps/slam/semidense_points.csv.gz",
+                "recording_rwrist/mps/slam/summary.json",
+                "recording_rwrist/mps/slam/online_calibration.jsonl"
+            ],
+            "recording_observer": [
+                "recording_observer/data/motion.vrs",
+                "recording_observer/data/et.vrs",
+                "recording_observer/mps/slam/closed_loop_trajectory.csv",
+                "recording_observer/mps/slam/semidense_points.csv.gz",
+                "recording_observer/mps/slam/summary.json",
+                "recording_observer/mps/slam/online_calibration.jsonl",
+                "recording_observer/mps/eye_gaze"
+            ],
+            "semidense_observations": [
+                "recording_head/mps/slam/semidense_observations.csv.gz",
+                "recording_lwrist/mps/slam/semidense_observations.csv.gz",
+                "recording_rwrist/mps/slam/semidense_observations.csv.gz",
+                "recording_observer/mps/slam/semidense_observations.csv.gz"
+            ]
+        },
+        "ungrouped_files": [
+            "LICENSE",
+            "metadata.json",
+            "narration/motion_narration.csv",
+            "narration/atomic_action.csv",
+            "narration/activity_summarization.csv",
+            "recording_head/data/data.vrs",
+            "recording_observer/data/data.vrs",
+            "body/xdata.mvnx"
+        ],
+        "release": "v0.0"
+    }
+}
